@@ -1,6 +1,6 @@
 ---
 title:  ""
-layout: archive
+layout: publications
 permalink: /About/
 author: "Yuan Yuan"
 author_profile: true
