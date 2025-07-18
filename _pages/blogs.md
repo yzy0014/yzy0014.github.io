@@ -1,10 +1,9 @@
----
 title:  "Blogs"
 layout: archive
 permalink: /Blogs/
+author: "Yuan Yuan"
 author_profile: true
 comments: true
----
 
 Blog Page
 

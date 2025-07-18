@@ -89,9 +89,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Junchao Wei"
-  avatar           : "/assets/images/bio-photo.png"
-  bio              : "Research Engineer, Konica Minolta Business Solution, U.S.A"
+  name             : "Yuan Yuan"
+  avatar           : "/assets/images/bio.jpg"
+  bio              : "Ph.D. in Mathematics and Statistics - Auburn University"
   location         : "Foster City, CA"
   links:
     - label: "Your Website"
