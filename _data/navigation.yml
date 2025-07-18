@@ -1,0 +1,28 @@
+# main links
+main:
+#  - title: "Quick-Start Guide"
+#    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    #url: https://www.google.com 
+#  - title: "About"
+#    url: https://mmistakes.github.io/minimal-mistakes/about/
+#  - title: "Sample Posts"
+#    url: /year-archive/
+#  - title: "Sample Collections"
+#    url: /collection-archive/
+#  - title: "Sitemap"
+#    url: /sitemap/
+  - title: "About"
+    url: /About/
+  - title: "Research"
+    url: /Research/
+  - title: "Development"
+    url: /Project/
+  - title: "Publication"
+    url: /Publications/
+  - title: "Patent"
+    url: /Patents/
+  - title: "Specialization"
+    url: /Specialization/
+  - title: "Blog"
+    url: /Blogs/
+
