@@ -19,8 +19,8 @@ locale                   : "en-US"
 title                    : " "
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Junchao Wei"
-description              : "Personal website."
+name                     : "Yuan Yuan"
+description              : "Personal Website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -101,18 +101,17 @@ analytics:
 
 # Site Author
 author:
-  name             : "Junchao Wei"
+  name             : "Yuan Yuan"
   avatar           : "/assets/images/bio.jpg"
-  bio              : "Ph.D. in Engineering - Auburn University - University of Pittsburgh"
+  bio              : "Ph.D. in Mathematics and Statistics - Auburn University"
   location         : "San Francisco Bay Area"
-  #email            : "Junchao"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:shine2008wjc193@gmail.com"
+      url: ""
     - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
-      url: "https://www.linkedin.com/in/junchaowei/"
+      url: "https://www.linkedin.com/in/yuan-y-13b80652/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -121,10 +120,10 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/jzw0025"
-    - label: "Duolingo"
+      url: "https://github.com/yzy0014"
+    - label: "Mathematics Departments at Auburn University"
       icon: "fas fa-fw fa-link"
-      url: "https://www.duolingo.com/profile/jzw0025?via=leagues"
+      url: "https://www.auburn.edu/cosam/departments/math/"
 
 # Site Footer
 footer:
