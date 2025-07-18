@@ -1,3 +1,4 @@
+---
 title:  ""
 layout: publications
 permalink: /Project/
@@ -8,7 +9,7 @@ geometry: margin=1in
 fontfamily: mathpazo
 fontsize: 8pt
 spacing: single
-
+---
 
 <p> project1 </p>
 
