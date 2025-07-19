@@ -19,12 +19,19 @@ spacing: single
 
 <p> project2 </p>
 <figure>
-  <img src="/assets/images/yy/zebrafish.png" alt="Project 1 Image" style="max-width:100%;height:auto;">
-  <figcaption>Project 2 Figure</figcaption>
+  <img src="/assets/images/yy/zebrafish.png" alt="Project 2 Image" style="max-width:100%;height:auto;">
+  <figcaption> B. Project of calcium fluoresces imaging (CFI) reconstruction of zebrafish larvae during of PTZ induced epileptic seizure. </figcaption>
 </figure>
 
-- <span style="font-family:Times New Roman; font-size:0.75em;"> B. Project of calcium fluoresces intensity imaging (CFI) reconstruction of zebrafish larvae during of PTZ induced epileptic seizure. 
-(a) reconstructed CFI images of the sample across a complete seizure cycle, sampled at $n=10$ equally spaced time points; (b) original CFI images for the same sample, at the same time points as (a); (c) extracted patterns from interictal periods; (d) extracted patterns from ictal periods; (e) averaged calcium fluouresces intensity curve form bodypixels, across five epileptic cycles; (f) anti-correlation network from ictal patterns (yellow), and interictal patterns (blue), across five epileptic cycles, measured with the model $R^2$ of reconstructed image features at each sampled time point against discovered patterns. Data came from collaborator as in Zheng et al., (2020) (<a href="https://pubmed.ncbi.nlm.nih.gov/30676975/">details</a>)
+- <span style="font-family:Times New Roman; font-size:0.75em;"> 
+(a) Reconstructed CFI images show the zebrafish sample throughout a full seizure cycle, with 10 evenly spaced time points.
+(b) The original CFI images are displayed for the same sample and time points.
+(c) Patterns are extracted from periods between seizures (interictal).
+(d) Patterns are also extracted from periods during seizures (ictal).
+(e) The average calcium fluorescence intensity curve is calculated from body pixels over five seizure cycles.
+(f) An anti-correlation network is mapped, showing ictal patterns in yellow and interictal patterns in blue, across five cycles. This is measured using the $R^2$ value between reconstructed image features and discovered patterns at each time point.
+
+Data provided by collaborators; see Zheng et al., (2020) (<a href="https://pubmed.ncbi.nlm.nih.gov/30676975/">details</a>)
  </span>
 
 <p> project3 </p>
