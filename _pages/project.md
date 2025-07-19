@@ -30,7 +30,7 @@ spacing: single
 (c) Patterns are extracted from periods between seizures (interictal).\\
 (d) Patterns are also extracted from periods during seizures (ictal).\\
 (e) The average calcium fluorescence intensity curve is calculated from body pixels over five seizure cycles.\\
-(f) An anti-correlation network is mapped, showing ictal patterns in yellow and interictal patterns in blue, across five cycles. This is measured using the $R^2$ value between reconstructed image features and discovered patterns at each time point.\\
+(f) An anti-correlation network is mapped, showing ictal patterns in yellow and interictal patterns in blue, across five cycles. This is measured using the $$R^2$$ value between reconstructed image features and discovered patterns at each time point.\\
 Data provided by collaborators; see Zheng et al., (2020) (<a href="https://pubmed.ncbi.nlm.nih.gov/30676975/">details</a>)</span>
 
 <p> project3 </p>
