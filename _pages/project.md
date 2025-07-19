@@ -11,28 +11,27 @@ spacing: single
 ---
 
 
-<p> project1 </p>
+<p> Project 1: </p>
 <figure>
   <img src="/assets/images/yy/projects.001.png" alt="Project 1 Image" style="max-width:100%;height:auto;">
   <figcaption>Project 1 Figure</figcaption>
 </figure>
 
-<p> project2 </p>
+
+<p> Project 2: calcium fluoresces imaging (CFI) of zebrafish larvae during PTZ induced epileptic seizure. </p>
 <figure>
   <img src="/assets/images/yy/zebrafish.png" alt="Project 2 Image" style="max-width:100%;height:auto;">
-  <figcaption> B. Project of calcium fluoresces imaging (CFI) reconstruction of zebrafish larvae during of PTZ induced epileptic seizure. </figcaption>
+  <figcaption> B. CFI imaging reconstruction, classification, and forecasting of zebrafish larvae during of PTZ induced epileptic seizure. </figcaption>
 </figure>
 
 - <span style="font-family:Times New Roman; font-size:0.75em;"> 
-(a) Reconstructed CFI images show the zebrafish sample throughout a full seizure cycle, with 10 evenly spaced time points.
-(b) The original CFI images are displayed for the same sample and time points.
-(c) Patterns are extracted from periods between seizures (interictal).
-(d) Patterns are also extracted from periods during seizures (ictal).
-(e) The average calcium fluorescence intensity curve is calculated from body pixels over five seizure cycles.
-(f) An anti-correlation network is mapped, showing ictal patterns in yellow and interictal patterns in blue, across five cycles. This is measured using the $R^2$ value between reconstructed image features and discovered patterns at each time point.
-
-Data provided by collaborators; see Zheng et al., (2020) (<a href="https://pubmed.ncbi.nlm.nih.gov/30676975/">details</a>)
- </span>
+(a) Reconstructed CFI images show the zebrafish sample throughout a full seizure cycle, with 10 evenly spaced time points.\\
+(b) The original CFI images are displayed for the same sample and time points.\\
+(c) Patterns are extracted from periods between seizures (interictal).\\
+(d) Patterns are also extracted from periods during seizures (ictal).\\
+(e) The average calcium fluorescence intensity curve is calculated from body pixels over five seizure cycles.\\
+(f) An anti-correlation network is mapped, showing ictal patterns in yellow and interictal patterns in blue, across five cycles. This is measured using the $R^2$ value between reconstructed image features and discovered patterns at each time point.\\
+Data provided by collaborators; see Zheng et al., (2020) (<a href="https://pubmed.ncbi.nlm.nih.gov/30676975/">details</a>)</span>
 
 <p> project3 </p>
 
