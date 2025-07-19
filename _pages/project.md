@@ -11,12 +11,18 @@ spacing: single
 ---
 
 
-<p> Project 1: </p>
+<p> Project 1: fMRI image reconstruction </p>
 <figure>
-  <img src="/assets/images/yy/projects.001.png" alt="Project 1 Image" style="max-width:100%;height:auto;">
-  <figcaption>Project 1 Figure</figcaption>
+  <img src="/assets/images/yy/fig1.png" alt="Project 1 Image" style="max-width:100%;height:auto;">
+  <figcaption> fMRI image reconstruction for a single subject using new feature reconstruction techniques:
+(a) Shows regions of brain activation when listening to human voices compared to nature sounds.
+(b) Displays fMRI reconstructions of brain regions activated by nature sounds.
+(c) Displays fMRI reconstructions of brain regions activated by human voices.
+</figcaption>
 </figure>
 
+<span style="font-family:Times New Roman; font-size:0.75em;"> 
+The "voice localizer" dataset is freely available on <a href="https://pubmed.ncbi.nlm.nih.gov/30676975/">OpenNEUROs</a> (Gorgolewski et al., 2017). ()</span>
 
 <p> Project 2: calcium fluoresces imaging (CFI) of zebrafish larvae during PTZ induced epileptic seizure. </p>
 <figure>
