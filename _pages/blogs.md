@@ -1,6 +1,6 @@
 ---
 title:  "Blogs"
-layout: archive
+layout: publications
 permalink: /Blogs/
 author: "Yuan Yuan"
 author_profile: true
