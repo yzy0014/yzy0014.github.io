@@ -2,11 +2,11 @@
 title:  ""
 layout: publications
 permalink: /About/
-author: "Yuan Yuan"
 author_profile: true
 comments: false
 spacing: single
 ---
+
 
 **<br/><span style="font-family:Times New Roman; font-size:1 em;"> A Research Scientist </span><br/>**
 

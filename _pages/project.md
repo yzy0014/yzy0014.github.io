@@ -11,6 +11,8 @@ fontsize: 8pt
 spacing: single
 ---
 
+
+
 <p> project1 </p>
 <figure>
   <img src="/assets/images/yy/projects.001.png" alt="Project 1 Image" style="max-width:100%;height:auto;">
