@@ -11,6 +11,7 @@ spacing: single
 ---
 
 
+<!--
 <p><span style="font-family:Times New Roman; font-size:0.75em;"> 
  Project 1: fMRI image reconstruction </span></p>
 <figure>
@@ -24,10 +25,11 @@ spacing: single
 
 <span style="font-family:Times New Roman; font-size:0.75em;"> 
 The "voice localizer" dataset is freely available on <a href="https://pubmed.ncbi.nlm.nih.gov/30676975/">OpenNEUROs</a> (Gorgolewski et al., 2017).</span>
+-->
 
 
 
-<p><span style="font-family:Times New Roman; font-size:0.75em;">  Project 2: calcium fluoresces imaging (CFI) of zebrafish larvae during PTZ induced epileptic seizure. </span></p>
+<p><span style="font-family:Times New Roman; font-size:0.75em;">  Project: calcium fluoresces imaging (CFI) of zebrafish larvae during PTZ induced epileptic seizure. </span></p>
 <figure>
   <img src="/assets/images/yy/zebrafish.png" alt="Project 2 Image" style="max-width:100%;height:auto;">
   <figcaption><span style="font-family:Times New Roman; font-size:0.75em;">  CFI imaging reconstruction, classification, and forecasting of zebrafish larvae during of PTZ induced epileptic seizure. (a) Reconstructed CFI images show the zebrafish sample throughout a full seizure cycle, with 10 evenly spaced time points.
