@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "Yuan Yuan"
   avatar           : "/assets/images/bio.jpg"
-  bio              : "Ph.D. in Mathematics and Statistics - Auburn University"
+  bio              : "Ph.D. in Statistics, Auburn University"
   location         : "San Francisco Bay Area"
   links:
     - label: "Email"
@@ -121,7 +121,7 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/yzy0014"
-    - label: "Department of Math & Statistics at Auburn University"
+    - label: "AU Department of Math & Stats"
       icon: "fas fa-fw fa-link"
       url: "https://www.auburn.edu/cosam/departments/math/"
 
