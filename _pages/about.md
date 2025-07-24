@@ -20,12 +20,12 @@ Dissertation: <a href="https://etd.auburn.edu/handle/10415/8064">On Functional S
 Advisor:  <a href="https://www.auburn.edu/cosam/climate_resilience/people/faculty/billor.htm">Dr. Billor.</a>
 </span> </p>
 
-<p> <br><span style="font-family:Times New Roman; font-size:0.75em;"> 
+<p><br><span style="font-family:Times New Roman; font-size:0.75em;"> 
 B.S. in Electronic Information Engineering, Huazhong University of Science and Technology, Wuhan. 2010.<br/></p>
 
-<br><span style="font-family:Times New Roman; font-size:0.75em;"> 
+<span style="font-family:Times New Roman; font-size:0.75em;"> 
  Thesis: A Matlab simulation courseware for communication theories.
-</span><br/>
+</span>
 
 
 
