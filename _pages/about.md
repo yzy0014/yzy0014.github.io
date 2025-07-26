@@ -11,7 +11,7 @@ spacing: single
 ---
 
 
-<span style="font-family:Times New Roman; font-size:0.75em;"> I received ph.D. in statistics from <a href="https://www.auburn.edu/cosam/departments/math/index.htm">Auburn University </a> (2021, <a href="https://etd.auburn.edu/handle/10415/8064">Thesis)</a> under the supersion of <a href="https://www.auburn.edu/cosam/climate_resilience/people/faculty/billor.htm"> Dr. Billor</a>. Prior to that, I held B.S. in EE from <a href="https://english.hust.edu.cn/">Huazhong University of Science and Technology (HUST)</a>, Wuhan, China.</span>
+<span style="font-family:Times New Roman; font-size:0.75em;"> I received ph.D. in statistics from <a href="https://www.auburn.edu/cosam/departments/math/index.htm">Auburn University </a> (2021, <a href="https://etd.auburn.edu/handle/10415/8064">Thesis)</a> under the supersion of <a href="https://www.auburn.edu/cosam/climate_resilience/people/faculty/billor.htm"> Dr. Billor</a>. Prior to that, I studied Electronical and Information Engineering (EE) at <a href="https://english.hust.edu.cn/">Huazhong University of Science and Technology</a>, Wuhan, China, which ranked among the <a href="https://en.wikipedia.org/wiki/Huazhong_University_of_Science_and_Technology"> QS Top 100 universities globally </a>, and obtained B.S. in EE in 2010. </span>
 
 
 
@@ -21,7 +21,7 @@ Ph.D. in Statistics, Auburn University, Auburn, AL, 2021.</span>
 
 
 -<span style="font-family:Times New Roman; font-size:0.75em;"> 
-B.S. in EE, 2010, <a href="https://english.hust.edu.cn/">Huazhong University of Science and Technology</a>, Wuhan, China. </span>
+B.S. in EE, <a href="https://english.hust.edu.cn/">Huazhong University of Science and Technology</a>, Wuhan, China, 2010. </span>
 - <span style="font-family:Times New Roman; font-size:0.75em;"> Thesis: A Matlab simulation courseware for communication theories. </span>
 
 
