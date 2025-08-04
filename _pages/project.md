@@ -11,7 +11,7 @@ spacing: single
 ---
 
 
-<!--
+
 <p><span style="font-family:Times New Roman; font-size:0.75em;"> 
  Project 1: fMRI image reconstruction </span></p>
 <figure>
@@ -25,7 +25,7 @@ spacing: single
 
 <span style="font-family:Times New Roman; font-size:0.75em;"> 
 The "voice localizer" dataset is freely available on <a href="https://pubmed.ncbi.nlm.nih.gov/30676975/">OpenNEUROs</a> (Gorgolewski et al., 2017).</span>
--->
+
 
 
 
