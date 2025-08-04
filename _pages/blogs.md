@@ -1,11 +1,17 @@
 ---
-title:  "Blogs"
+title:  ""
 layout: publications
 permalink: /Blogs/
-author: "Yuan Yuan"
 author_profile: true
-comments: true
+comments: false
+geometry: margin=1in
+fontfamily: mathpazo
+fontsize: 8pt
+spacing: single
 ---
+
+<iframe src="/assets/path-to-your-slides.pdf" width="100%" height="600px"></iframe>
+
 <!--
 Blog Page
 
