@@ -19,12 +19,12 @@ spacing: single
   <figcaption><span style="font-family:Times New Roman; font-size:0.75em;"> fMRI image reconstruction for a single subject using new feature reconstruction techniques:
 (a) Shows regions of brain activation when listening to human voices compared to nature sounds.
 (b) Displays fMRI reconstructions of brain regions activated by nature sounds.
-(c) Displays fMRI reconstructions of brain regions activated by human voices.
+(c) Displays fMRI reconstructions of brain regions activated by human voices. 
+The "voice localizer" dataset is freely available on <a href="https://pubmed.ncbi.nlm.nih.gov/30676975/">OpenNEUROs</a> (Gorgolewski et al., 2017).
 </span></figcaption>
 </figure>
 
-<span style="font-family:Times New Roman; font-size:0.75em;"> 
-The "voice localizer" dataset is freely available on <a href="https://pubmed.ncbi.nlm.nih.gov/30676975/">OpenNEUROs</a> (Gorgolewski et al., 2017).</span>
+
 
 
 
@@ -37,11 +37,11 @@ The "voice localizer" dataset is freely available on <a href="https://pubmed.ncb
 (c) Patterns are extracted from periods between seizures (interictal).
 (d) Patterns are also extracted from periods during seizures (ictal).
 (e) The average calcium fluorescence intensity curve is calculated from body pixels over five seizure cycles.
-(f) An anti-correlation network is mapped, showing ictal patterns in yellow and interictal patterns in blue, across five cycles. This is measured using the $$R^2$$ value between reconstructed image features and discovered patterns at each time point.</span></figcaption>
+(f) An anti-correlation network is mapped, showing ictal patterns in yellow and interictal patterns in blue, across five cycles. This is measured using the $$R^2$$ value between reconstructed image features and discovered patterns at each time point.
+Data provided by collaborators; see Zheng et al., (2020) (<a href="https://pubmed.ncbi.nlm.nih.gov/30676975/">details</a>).</span></figcaption>
 </figure>
 
-<span style="font-family:Times New Roman; font-size:0.75em;"> 
-Data provided by collaborators; see Zheng et al., (2020) (<a href="https://pubmed.ncbi.nlm.nih.gov/30676975/">details</a>)</span>
+
 
 
 
