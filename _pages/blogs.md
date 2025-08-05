@@ -10,7 +10,7 @@ fontsize: 8pt
 spacing: single
 ---
 
-<iframe src="/assets/images/yy/T32 slides.pdf" width="100%" height="600px"></iframe>
+<iframe src="/assets/images/yy/T32-slides.pdf" width="100%" height="600px"></iframe>
 
 <!--
 Blog Page
