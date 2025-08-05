@@ -12,16 +12,13 @@ spacing: single
 
 <iframe src="/assets/images/yy/T32-slides.pdf" width="100%" height="600px"></iframe>
 
-<!-- <iframe src="/assets/pdfjs/web/viewer.html?file=assets/images/yy/T32-slides.pdf" width="100%" height="600px"></iframe> -->
-
 <object data="/assets/images/yy/T32-slides.pdf" type="application/pdf" width="100%" height="600px">
   This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/images/yy/T32-slides.pdf">Download PDF</a>.
 </object>
 
+
 <figure>
   <img src="/assets/images/yy/T32_slides_July2024.png" alt="T32slides" style="max-width:100%;height:auto;">
-  <figcaption><span style="font-family:Times New Roman; font-size:0.75em;"> 
-</span></figcaption>
 </figure>
 
 <!--
