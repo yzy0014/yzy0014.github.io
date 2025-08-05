@@ -20,6 +20,7 @@ spacing: single
   This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/images/yy/T32-slides.pdf">Download PDF</a>.
 </iframe>
 
+<embed src="/assets/images/yy/T32-slides.pdf" width="100%" height="600px">
 
 <!--
 Blog Page
