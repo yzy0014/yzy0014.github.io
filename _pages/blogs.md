@@ -13,7 +13,7 @@ spacing: single
 <iframe src="/assets/images/yy/T32-slides.pdf" width="100%" height="600px"></iframe>
 -->
 
-<iframe src="https://mozilla.github.io/pdf.js/web/viewer.html?file=/assets/images/yy/T32-slides.pdf" width="100%" height="600px"></iframe>
+<iframe src="https://mozilla.github.io/assets/images/yy/viewer.html?file=T32-slides.pdf" width="100%" height="600px"></iframe>
 
 
 <!--
