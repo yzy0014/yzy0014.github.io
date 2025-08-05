@@ -24,7 +24,6 @@ spacing: single
   <p>This browser does not support PDFs. <a href="/assets/images/yy/T32-slides.pdf">Download PDF</a>.</p>
 </object>
 
-<embed src="/assets/images/yy/T32-slides.pdf" width="100%" height="600px">
 
 <!--
 Blog Page
