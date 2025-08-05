@@ -9,11 +9,11 @@ fontfamily: mathpazo
 fontsize: 8pt
 spacing: single
 ---
-<!--
-<iframe src="/assets/images/yy/T32-slides.pdf" width="100%" height="600px"></iframe>
--->
 
-<iframe src="https://mozilla.github.io/pdfjs/web/viewer.html?file=/assets/images/yy/T32-slides.pdf" width="100%" height="600px"></iframe>
+<iframe src="/assets/images/yy/T32-slides.pdf" width="100%" height="600px"></iframe>
+
+
+<iframe src="https://mozilla.github.io/pdf.js/web/viewer.html?file=/assets/images/yy/T32-slides.pdf" width="100%" height="600px"></iframe>
 
 
 <!--
