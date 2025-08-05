@@ -20,9 +20,9 @@ spacing: single
   This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/images/yy/T32-slides.pdf">Download PDF</a>.
 </iframe> -->
 
-<object data="/assets/images/yy/T32-slides.pdf" type="application/pdf" width="100%" height="600px">
+<!-- <object data="/assets/images/yy/T32-slides.pdf" type="application/pdf" width="100%" height="600px">
   <p>IF this browser does not support PDFs. <a href="/assets/images/yy/T32-slides.pdf">Download PDF</a>.</p>
-</object>
+</object> -->
 
 
 <!--
