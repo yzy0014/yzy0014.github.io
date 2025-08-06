@@ -17,10 +17,6 @@ spacing: single
 </object>
 
 
-<figure>
-  <img src="/assets/images/yy/T32_slides_July2024.png" alt="T32slides" style="max-width:100%;height:auto;">
-</figure>
-
 <!--
 Blog Page
 
