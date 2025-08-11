@@ -11,7 +11,9 @@ spacing: single
 ---
 
 <iframe src="/assets/images/yy/T32-slides.pdf" width="100%" height="600px" allowfullscreen></iframe>
-<span style="font-family:Times New Roman; font-size:0.75em;"> This is a copy of the T32 interview talk that I gave in July 2024. </span>
+<span style="font-family:Times New Roman; font-size:0.75em;"> This is a copy of the T32 interview talk that I gave in July 2024. If it does not display properly, you may <a href="/assets/images/yy/T32-slides.pdf" download>download it here</a>.</span>
+
+
 
 
 <!--
