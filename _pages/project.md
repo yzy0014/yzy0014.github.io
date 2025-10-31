@@ -71,6 +71,7 @@ This project involves the reconstruction, classification, and forecasting of epi
   <li>Blue regions show interictal patterns</li>
   <li>Patterns measured using R-squared values between CFI series and discovered patterns</li>
 </ul>
+</div>
 
 <div style="font-family:Times New Roman; font-size:0.75em; margin-top:1em;">
 <strong>Details & Resources:</strong>
@@ -81,9 +82,6 @@ This project involves the reconstruction, classification, and forecasting of epi
 </ul>
 </div>
 
-
-
-<hr style="margin: 2em 0;">
 
 
 
