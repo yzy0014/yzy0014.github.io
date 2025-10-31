@@ -1,5 +1,5 @@
 ---
-title: "Publications & Presentations"
+title: ""
 layout: publications
 permalink: /Publications/
 author_profile: true
@@ -10,7 +10,7 @@ fontsize: 8pt
 spacing: single
 ---
 
-<h2 style="font-family:Times New Roman; font-size:1.2em;">Journal Publications</h2>
+<h4 style="font-family:Times New Roman; font-size:1.2em;">Journal Publications</h2>
 
 <div style="font-family:Times New Roman; font-size:0.75em;">
 <h3 style="font-family:Times New Roman; font-size:0.9em; color:#4a4a4a;">Peer-Reviewed Articles</h3>
