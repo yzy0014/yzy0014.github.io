@@ -10,20 +10,36 @@ fontsize: 8pt
 spacing: single
 ---
 
-
-<span style="font-family:Times New Roman; font-size:0.75em;"> I received PhD in Statistics from <a href="https://www.auburn.edu/cosam/departments/math/index.htm">Auburn University </a> (2021, <a href="https://etd.auburn.edu/handle/10415/8064">Thesis)</a> under the supervision of <a href="https://www.auburn.edu/cosam/climate_resilience/people/faculty/billor.htm"> Dr. Billor</a>.
-Prior to that, I studied Electronical and Information Engineering (EE) at <a href="https://english.hust.edu.cn/">Huazhong University of Science and Technology</a> (see <a href="https://www.usnews.com/education/best-global-universities/huazhong-university-of-science-technology-505190">US.NEWS</a>), and received BS in EE in 2010. </span>
+<h2 style="font-family:Times New Roman; font-size:1.2em;">Yuan Yuan</h2>
 
 
+<span style="font-family:Times New Roman; font-size:0.75em;"> I am a computational neuroscientist and statistician with expertise in high-dimensional data analysis and functional neuroimaging. My research focuses on developing and applying novel statistical methods—such as functional Sure Independence Screening (fSIS) and dynamic spectral feature extraction—to understand complex neuroscience data (EEG, fMRI, calcium imaging).</span>
 
--<span style="font-family:Times New Roman; font-size:0.75em;"> 
-Ph.D. in Statistics, Auburn University, Auburn, AL, 2021.</span>
-- <span style="font-family:Times New Roman; font-size:0.75em;"> <a href="https://etd.auburn.edu/handle/10415/8064">Dissertation: On Functional Sure Independence Screening (fSIS) and Dynamic Spectral Featuring Extraction for Neuroscience Data.</a></span>
+<span style="font-family:Times New Roman; font-size:0.75em;"> My interdisciplinary background provides a unique perspective on linking sophisticated data analysis with biological and psychological insights. I hold a Ph.D. in Statistics from Auburn University and a B.S. in Electrical and Information Engineering from Huazhong University of Science and Technology. </span>
+
+<div style="font-family:Times New Roman; font-size:0.75em; margin-top:2em;">
+I welcome collaborations from all related fields. You can reach me at:<br>
+Email: <a href="mailto:yzy0014@auburn.edu">yzy0014@auburn.edu</a><br>
+LinkedIn: <a href="https://www.linkedin.com/in/yuan-yuan-13b80652/">Yuan Yuan</a><br>
+ResearchGate: <a href="https://www.researchgate.net/profile/Yuan_Yuan20?ev=hdr_xprf">Yuan Yuan</a>
+</div>
 
 
--<span style="font-family:Times New Roman; font-size:0.75em;"> 
-B.S. in EE, <a href="https://english.hust.edu.cn/">Huazhong University of Science and Technology</a>, Wuhan, China, 2010. </span>
-- <span style="font-family:Times New Roman; font-size:0.75em;"> Thesis: A MATLAB Simulation Courseware for Communication Theories. </span>
+
+<h2 style="font-family:Times New Roman; font-size:1.2em;">Education</h2>
+
+<div style="font-family:Times New Roman; font-size:0.75em;">
+<strong>Ph.D. in Statistics (2021)</strong><br>
+Auburn University, Auburn, AL<br>
+Dissertation: <a href="https://etd.auburn.edu/handle/10415/8064">On Functional Sure Independence Screening (fSIS) and Dynamic Spectral Feature Extraction for Neuroscience Data</a><br>
+Advisor: <a href="https://www.auburn.edu/cosam/climate_resilience/people/faculty/billor.htm">Dr. Nedret Billor</a>
+</div>
+
+<div style="font-family:Times New Roman; font-size:0.75em; margin-top: 1em;">
+<strong>B.S. in Electrical and Information Engineering (EE) (2010)</strong><br>
+<a href="https://english.hust.edu.cn/">Huazhong University of Science and Technology</a>, Wuhan, China<br>
+Thesis: A MATLAB Simulation Courseware for Communication Theories
+</div>
 
 
 
