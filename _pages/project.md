@@ -1,10 +1,15 @@
 ---
 title: "Projects"
 layout: collection
-permalink: /projects/
+permalink: /Projects/
 author_profile: true
 comments: false
+geometry: margin=1in
+fontfamily: mathpazo
+fontsize: 8pt
+spacing: single
 ---
+
 
 <h2 style="font-family:Times New Roman; font-size:1.2em;">Selected Research Projects</h2>
 
