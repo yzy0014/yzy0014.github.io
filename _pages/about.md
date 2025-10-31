@@ -17,14 +17,6 @@ spacing: single
 
 <span style="font-family:Times New Roman; font-size:0.75em;"> My interdisciplinary background provides a unique perspective on linking sophisticated data analysis with biological and psychological insights. I hold a Ph.D. in Statistics from Auburn University and a B.S. in Electrical and Information Engineering from Huazhong University of Science and Technology. </span>
 
-<div style="font-family:Times New Roman; font-size:0.75em; margin-top:2em;">
-I welcome collaborations from all related fields. You can reach me at:<br>
-Email: <a href="mailto:yzy0014@auburn.edu">yzy0014@auburn.edu</a><br>
-LinkedIn: <a href="https://www.linkedin.com/in/yuan-yuan-13b80652/">Yuan Yuan</a><br>
-ResearchGate: <a href="https://www.researchgate.net/profile/Yuan_Yuan20?ev=hdr_xprf">Yuan Yuan</a>
-</div>
-
-
 
 <h2 style="font-family:Times New Roman; font-size:1.2em;">Education</h2>
 
