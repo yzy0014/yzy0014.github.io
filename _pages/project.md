@@ -33,9 +33,9 @@ This project applies novel feature reconstruction techniques to fMRI data to bet
 <strong>Figure Description:</strong>
 <p style="margin-top:0.5em;">fMRI image reconstruction for a single subject using new feature reconstruction techniques:</p>
 <ul style="margin-top: 0.5em;">
-  <li>Panel (a): Displays regions of activation by human voices</li>
-  <li>Panel (b): Shows regions of activation when listening to human voices compared to nature sounds</li>
-  <li>Panel (c): Displays regions of activation by nature sounds</li>
+  <li> (a): Displays regions of activation by human voices</li>
+  <li> (b): Shows regions of activation when listening to human voices compared to nature sounds</li>
+  <li> (c): Displays regions of activation by nature sounds</li>
 </ul>
 </div>
 
@@ -64,12 +64,18 @@ This project involves the reconstruction, classification, and forecasting of epi
 
 <div style="font-family:Times New Roman; font-size:0.75em; margin-top:1em;">
 <strong>Figure Description:</strong>
-<p style="margin-top:0.5em;">CFI imaging reconstruction showing zebrafish larvae activity during PTZ induced epileptic seizure:</p>
+<p style="margin-top:0.5em;">CFI imaging reconstruction of PTZ induced zebrafish seizure:</p>
 <ul style="margin-top: 0.5em;">
-  <li>An anti-correlation network mapped across five cycles</li>
-  <li>Yellow regions indicate ictal patterns</li>
-  <li>Blue regions show interictal patterns</li>
-  <li>Patterns measured using R-squared values between CFI series and discovered patterns</li>
+  <li> (a): CFI heatmap with patterns of activation during Ictal and Interictal phases, respectively. </li>
+  <li> (b): Temporal Dynamics of Ictal and Interictal Pattern Fit (R-squared) across five seizure cycles 
+    <ul style="margin-top: 0.3em; margin-bottom: 0.3em;">
+      <li>Yellow curve indicates the fit of ictal features</li>
+      <li>Blue curve shows interictal features</li>
+      <li>Indicate an anti-correlational network between the two phases</li>
+    </ul>
+    </li>
+  <li> (c): Averaged CFI series curve of zebrafish larvea across five epileptic seizure cycles.  </li>
+ 
 </ul>
 </div>
 
