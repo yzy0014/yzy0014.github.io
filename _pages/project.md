@@ -27,13 +27,17 @@ This project applies novel feature reconstruction techniques to fMRI data to bet
 
 <figure>
   <img src="/assets/images/yy/fMRI-project.png" alt="Project 1 Image" style="max-width:100%;height:auto;">
-  <figcaption style="font-family:Times New Roman; font-size:0.75em;">
-    fMRI image reconstruction for a single subject using new feature reconstruction techniques: 
-    (a) Displays regions of activation by human voices; 
-    (b) Shows regions of activation when listening to human voices compared to nature sounds; 
-    (c) Displays regions of activation by nature sounds.
-  </figcaption>
 </figure>
+
+<div style="font-family:Times New Roman; font-size:0.75em; margin-top:1em;">
+<strong>Figure Description:</strong>
+<p style="margin-top:0.5em;">fMRI image reconstruction for a single subject using new feature reconstruction techniques:</p>
+<ul style="margin-top: 0.5em;">
+  <li>Panel (a): Displays regions of activation by human voices</li>
+  <li>Panel (b): Shows regions of activation when listening to human voices compared to nature sounds</li>
+  <li>Panel (c): Displays regions of activation by nature sounds</li>
+</ul>
+</div>
 
 <div style="font-family:Times New Roman; font-size:0.75em; margin-top:1em;">
 <strong>Details & Resources:</strong>
@@ -43,6 +47,8 @@ This project applies novel feature reconstruction techniques to fMRI data to bet
   <li><strong>Data Source:</strong> <a href="https://pubmed.ncbi.nlm.nih.gov/30676975/">OpenNEUROs Dataset</a> (Gorgolewski et al., 2017)</li>
 </ul>
 </div>
+
+
 
 <hr style="margin: 2em 0;">
 
@@ -54,12 +60,17 @@ This project involves the reconstruction, classification, and forecasting of epi
 
 <figure>
   <img src="/assets/images/yy/zebrafish-project.png" alt="Project 2 Image" style="max-width:100%;height:auto;">
-  <figcaption style="font-family:Times New Roman; font-size:0.75em;">
-    CFI imaging reconstruction, classification, and forecasting of zebrafish larvae during PTZ induced epileptic seizure. 
-    An anti-correlation network is mapped, showing ictal patterns in yellow and interictal patterns in blue, across five cycles. 
-    Measured using R-squared values between CFI series and discovered patterns at each sampled time point.
-  </figcaption>
 </figure>
+
+<div style="font-family:Times New Roman; font-size:0.75em; margin-top:1em;">
+<strong>Figure Description:</strong>
+<p style="margin-top:0.5em;">CFI imaging reconstruction showing zebrafish larvae activity during PTZ induced epileptic seizure:</p>
+<ul style="margin-top: 0.5em;">
+  <li>An anti-correlation network mapped across five cycles</li>
+  <li>Yellow regions indicate ictal patterns</li>
+  <li>Blue regions show interictal patterns</li>
+  <li>Patterns measured using R-squared values between CFI series and discovered patterns</li>
+</ul>
 
 <div style="font-family:Times New Roman; font-size:0.75em; margin-top:1em;">
 <strong>Details & Resources:</strong>
@@ -69,6 +80,8 @@ This project involves the reconstruction, classification, and forecasting of epi
   <li><strong>Data Source:</strong> Data provided by collaborators; see Zheng et al., (2020) (<a href="https://pubmed.ncbi.nlm.nih.gov/30676975/">details</a>)</li>
 </ul>
 </div>
+
+
 
 <hr style="margin: 2em 0;">
 
