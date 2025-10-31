@@ -34,6 +34,8 @@ spacing: single
 <h2 style="font-family:Times New Roman; font-size:1.2em;">Conference Papers & Presentations</h2>
 
 <div style="font-family:Times New Roman; font-size:0.75em;">
+<h3 style="font-family:Times New Roman; font-size:0.9em; color:#4a4a4a;">Conference Presentations</h3>
+
 <ul style="list-style-type: none; padding-left: 0;">
     <li style="margin-bottom: 1em;">Yuan, Y., & Billor, N. (2020, December). <em>Sure Independence Screening (SIS) for multiple functional regression model</em>. 13th International Conference on Computational and Methodological Statistics, Online. 
     <a href="https://www.cmstatistics.org/RegistrationsV2/CMStatistics2020/viewSubmission.php?id=919&token=162q9oqq1r155934q7683p908196o139">[Link]</a></li>
@@ -49,6 +51,8 @@ spacing: single
 <h2 style="font-family:Times New Roman; font-size:1.2em;">Invited Talks</h2>
 
 <div style="font-family:Times New Roman; font-size:0.75em;">
+<h3 style="font-family:Times New Roman; font-size:0.9em; color:#4a4a4a;">Academic & Industry Presentations</h3>
+
 <ul style="list-style-type: none; padding-left: 0;">
     <li style="margin-bottom: 1em;">T32 Postdoctoral Candidate Presentation in Developmental Neuropsychiatry, Stanford University, Online, July 2024.</li>
     <li style="margin-bottom: 1em;">Invited Research Talk, Merck Sharp & Dohme (China) Co., Ltd. R&D, Beijing Office, Online, October 2021.</li>  
