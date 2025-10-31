@@ -1,7 +1,7 @@
 ---
 title: "Projects"
 layout: collection
-permalink: /Projects/
+permalink: /Project/
 author_profile: true
 comments: false
 geometry: margin=1in
