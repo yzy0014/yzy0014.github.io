@@ -11,7 +11,7 @@ spacing: single
 ---
 
 
-<h4 style="font-family:Times New Roman; font-size:1.2em;">Selected Research Projects</h2>
+<h2 style="font-family:Times New Roman; font-size:1.2em;">Selected Research Projects</h2>
 
 <div style="font-family:Times New Roman; font-size:0.75em;">
 These projects showcase the application of statistical and computational methods to analyze complex neuroscience data, utilizing R, MATLAB, and Python.
