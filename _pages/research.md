@@ -13,7 +13,7 @@ spacing: single
 <h2 style="font-family:Times New Roman; font-size:1.2em;">Research Interests</h2>
 
 <div style="font-family:Times New Roman; font-size:0.75em;">
-My research sits at the intersection of statistics and neuroscience, focusing on the development and application of quantitative methods to analyze complex neuroimaging and biological data. I am particularly interested in identifying robust biomarkers for mental health resilience and risk.
+My research sits at the intersection of statistics and neuroscience, focusing on the development and application of quantitative methods to analyze complex neuroimaging and biological data. 
 </div>
 
 <h3 style="font-family:Times New Roman; font-size:1em; margin-top:1.5em;">1. Feature Selection and High-Dimensional Data</h3>
