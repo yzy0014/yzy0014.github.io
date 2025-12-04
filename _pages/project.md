@@ -63,7 +63,7 @@ This project focuses on developing novel feature screening techniques for high-d
 </div>
 
 <figure>
-  <img src="/assets/images/yy/project1_image.png" alt="Project 2 Image" style="max-width:100%;height:auto;">
+  <img src="/assets/images/yy/fMRI_project.png" alt="Project 2 Image" style="max-width:100%;height:auto;">
 </figure>
 
 <div style="font-family:Times New Roman; font-size:0.75em; margin-top:1em;">
@@ -85,7 +85,7 @@ This project involves analyzing calcium fluorescence imaging videos to understan
 </div>
 
 <figure>
-  <img src="/assets/images/yy/project2_image.png" alt="Project 3 Image" style="max-width:100%;height:auto;">
+  <img src="/assets/images/yy/zebrafish-project.png" alt="Project 3 Image" style="max-width:100%;height:auto;">
 </figure>
 
 <div style="font-family:Times New Roman; font-size:0.75em; margin-top:1em;">
