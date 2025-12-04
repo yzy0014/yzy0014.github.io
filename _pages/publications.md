@@ -22,9 +22,9 @@ spacing: single
     <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/ahg.12339">[Link]</a></li>
 </ul>
 
-<h3 style="font-family:Times New Roman; font-size:0.9em; margin-top:1.5em; color:#4a4a4a;">Under Review/Preparation</h3>
+<h3 style="font-family:Times New Roman; font-size:0.9em; color:#4a4a4a; margin-top:1.5em;">Under Review/Preparation</h3>
 
-<div style="font-family:Times New Roman; font-size:0.75em; margin-top:1em;">
+<div style="margin-top:1em;">
     <strong>Yuan, Y.</strong> (2025). <em>How LLMs Encode Stereotypes: Rotating Personality Structures, Not Just Shifting Scores</em>. Manuscript in preparation for ICML 2026.
     <ul style="margin-top: 0.5em; margin-left: 1.5em;">
         <li>Conducted ablation study on 200 GPT-4o samples, comparing five methods for detecting cultural identities in LLM-simulated personalities.</li>
@@ -33,7 +33,7 @@ spacing: single
     </ul>
 </div>
 
-<div style="font-family:Times New Roman; font-size:0.75em; margin-top:1em;">
+<div style="margin-top:1em;">
     <strong>Yuan, Y.</strong> (2026). <em>Ontological Alignment: Moving Beyond the Social Contract Through Civilizational Ontology</em>. Manuscript in preparation for FAccT 2026.
     <ul style="margin-top: 0.5em; margin-left: 1.5em;">
         <li>Systematically reveals structural limitations of social contract-based alignment paradigms in terms of technical robustness and cultural inclusiveness.</li>
@@ -42,7 +42,7 @@ spacing: single
     </ul>
 </div>
 
-<div style="font-family:Times New Roman; font-size:0.75em; margin-top:1em;">
+<div style="margin-top:1em;">
     Yuan, Y., Billor, N., & Zheng, J. (2025 Est.). <em>Encode and reconstruction of calcium fluorescence imaging video: a spatiotemporal approach for epileptic seizure in zebrafish larva</em>. Manuscript under preparation.
 </div>
 
