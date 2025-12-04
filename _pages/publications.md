@@ -24,9 +24,28 @@ spacing: single
 
 <h3 style="font-family:Times New Roman; font-size:0.9em; margin-top:1.5em; color:#4a4a4a;">Under Review/Preparation</h3>
 
-<ul style="list-style-type: none; padding-left: 0;">
-    <li style="margin-bottom: 1em;">Yuan, Y., Billor, N., & Zheng, J. (2025 Est.). <em>Encode and reconstruction of calcium fluorescence imaging video: a spatiotemporal approach for epileptic seizure in zebrafish larva</em>. Manuscript under preparation.</li>
-</ul>
+<div style="font-family:Times New Roman; font-size:0.75em; margin-top:1em;">
+    <strong>Yuan, Y.</strong> (2025). <em>How LLMs Encode Stereotypes: Rotating Personality Structures, Not Just Shifting Scores</em>. Manuscript in preparation for ICML 2026.
+    <ul style="margin-top: 0.5em; margin-left: 1.5em;">
+        <li>Conducted ablation study on 200 GPT-4o samples, comparing five methods for detecting cultural identities in LLM-simulated personalities.</li>
+        <li>Discovered that LLMs primarily encode stereotypes by rotating covariance structures in personality space, with mean score shifts as a secondary effect.</li>
+        <li>Achieved 97.41% clustering accuracy using Riemannian geometry on SPD manifolds, validating the proposed theoretical framework.</li>
+    </ul>
+</div>
+
+<div style="font-family:Times New Roman; font-size:0.75em; margin-top:1em;">
+    <strong>Yuan, Y.</strong> (2026). <em>Ontological Alignment: Moving Beyond the Social Contract Through Civilizational Ontology</em>. Manuscript in preparation for FAccT 2026.
+    <ul style="margin-top: 0.5em; margin-left: 1.5em;">
+        <li>Systematically reveals structural limitations of social contract-based alignment paradigms in terms of technical robustness and cultural inclusiveness.</li>
+        <li>Introduces "philosophical probes" as a self-referential prompt engineering method for qualitative conceptual research with AI systems.</li>
+        <li>Opens new avenues for more stable, culturally inclusive, and less adversarial long-term AI development models.</li>
+    </ul>
+</div>
+
+<div style="font-family:Times New Roman; font-size:0.75em; margin-top:1em;">
+    Yuan, Y., Billor, N., & Zheng, J. (2025 Est.). <em>Encode and reconstruction of calcium fluorescence imaging video: a spatiotemporal approach for epileptic seizure in zebrafish larva</em>. Manuscript under preparation.
+</div>
+
 </div>
 
 <hr style="margin: 2em 0;">
