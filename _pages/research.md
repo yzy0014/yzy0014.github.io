@@ -13,7 +13,7 @@ spacing: single
 <h2 style="font-family:Times New Roman; font-size:1.2em;">Research Interests</h2>
 
 <div style="font-family:Times New Roman; font-size:0.75em;">
-My research sits at the intersection of statistics and neuroscience, focusing on the development and application of quantitative methods to analyze complex neuroimaging and biological data. 
+My research sits at the intersection of statistics, neuroscience, and artificial intelligence, focusing on the development and application of quantitative methods to analyze complex data and understand intelligent systems.
 </div>
 
 <h3 style="font-family:Times New Roman; font-size:1em; margin-top:1.5em;">1. Feature Selection and High-Dimensional Data</h3>
@@ -26,8 +26,13 @@ My doctoral work focused on developing novel feature screening techniques for fu
 I have also worked on extracting dynamic spectral features from neuroimaging data (EEG, calcium imaging). This work involves time-frequency analysis to understand how neural activity changes over time in response to stimuli or in different states. I apply these methods to understand neural coding in animal models (zebrafish) and human data.
 </div>
 
+<h3 style="font-family:Times New Roman; font-size:1em; margin-top:1.5em;">3. AI Alignment and LLM Ethics</h3>
+<div style="font-family:Times New Roman; font-size:0.75em;">
+My recent work explores theoretical foundations of AI alignment and the statistical mechanisms underlying large language model behavior. I investigate how LLMs encode cultural stereotypes through personality structure rotation and propose novel philosophical frameworks for AI alignment that move beyond Western social contract theory. This research combines mathematical rigor with cross-cultural philosophical insights to address critical challenges in AI safety and fairness.
+</div>
+
 <div style="font-family:Times New Roman; font-size:0.75em; margin-top:2em;">
-I welcome collaborations from all related fields. You can reach me at the following:
+I welcome collaborations from all related fields across statistics, neuroscience, and AI research. You can reach me at the following:
 
 <h3 style="font-family:Times New Roman; font-size:1em; margin-top:1em;">Contact Information:</h3>
 <ul style="list-style-type: none; padding-left: 0; margin-top:0.5em;">
