@@ -105,7 +105,11 @@ This project investigates how large language models encode cultural stereotypes,
 </figure>
 
 <figure style="margin-top: 1em;">
-  <img src="/assets/images/yy/UMAP_Eigenvalues_True_Labels.png" alt="UMAP Manifold Analysis" style="max-width:100%;height:auto;">
+  <img src="/assets/images/yy/UMAP_Manifold_True_Labels.png" alt="UMAP Manifold Analysis" style="max-width:100%;height:auto;">
+</figure>
+
+<figure style="margin-top: 1em;">
+  <img src="/assets/images/yy/UMAP_Eigenvalues_True_Labels.png" alt="UMAP Eigenvalues Analysis" style="max-width:100%;height:auto;">
 </figure>
 
 <div style="font-family:Times New Roman; font-size:0.75em; margin-top:1em;">
@@ -124,6 +128,7 @@ This project investigates how large language models encode cultural stereotypes,
   <li><strong>Combined Ablation Study:</strong> Comprehensive analysis comparing five methods for detecting cultural identities in LLM-simulated personalities</li>
   <li><strong>UMAP Dimensions Analysis:</strong> Dimensional reduction visualization showing personality space structure across cultural groups</li>
   <li><strong>UMAP Manifold Analysis:</strong> Manifold-based clustering demonstrating 97.41% accuracy in cultural identity detection using Riemannian geometry</li>
+  <li><strong>UMAP Eigenvalues Analysis:</strong> Eigenvalue-based analysis of personality covariance structures across cultural groups</li>
 </ul>
 </div>
 
