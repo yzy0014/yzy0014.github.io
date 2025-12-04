@@ -105,7 +105,7 @@ This project investigates how large language models encode cultural stereotypes,
 </figure>
 
 <figure style="margin-top: 1em;">
-  <img src="/assets/images/yy/UMAP_Manifold_True_Labels.png" alt="UMAP Manifold Analysis" style="max-width:100%;height:auto;">
+  <img src="/assets/images/yy/UMAP_Eigenvalues_True_Labels.png" alt="UMAP Manifold Analysis" style="max-width:100%;height:auto;">
 </figure>
 
 <div style="font-family:Times New Roman; font-size:0.75em; margin-top:1em;">
@@ -113,7 +113,7 @@ This project investigates how large language models encode cultural stereotypes,
 <ul>
   <li><strong>Methods:</strong> Ablation studies, Riemannian geometry, SPD manifold analysis, UMAP dimensionality reduction, cultural identity detection</li>
   <li><strong>Tools:</strong> Analysis conducted with GPT-4o samples, figures produced in Python/R</li>
-  <li><strong>Data Source:</strong> 200 GPT-4o generated personality profiles across cultural identities</li>
+  <li><strong>Data Source:</strong> GPT-4o generated personality profiles across cultural identities</li>
   <li><strong>Status:</strong> Manuscript in preparation for ICML 2025</li>
 </ul>
 </div>
