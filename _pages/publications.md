@@ -26,20 +26,10 @@ spacing: single
 
 <div style="margin-top:1em;">
     <strong>Yuan, Y.</strong> (2025). <em>How LLMs Encode Stereotypes: Rotating Personality Structures, Not Just Shifting Scores</em>. Manuscript in preparation for ICML 2026.
-    <ul style="margin-top: 0.5em; margin-left: 1.5em;">
-        <li>Conducted ablation study on 200 GPT-4o samples, comparing five methods for detecting cultural identities in LLM-simulated personalities.</li>
-        <li>Discovered that LLMs primarily encode stereotypes by rotating covariance structures in personality space, with mean score shifts as a secondary effect.</li>
-        <li>Achieved 97.41% clustering accuracy using Riemannian geometry on SPD manifolds, validating the proposed theoretical framework.</li>
-    </ul>
 </div>
 
 <div style="margin-top:1em;">
-    <strong>Yuan, Y.</strong> (2026). <em>Ontological Alignment: Moving Beyond the Social Contract Through Civilizational Ontology</em>. Manuscript in preparation for FAccT 2026.
-    <ul style="margin-top: 0.5em; margin-left: 1.5em;">
-        <li>Systematically reveals structural limitations of social contract-based alignment paradigms in terms of technical robustness and cultural inclusiveness.</li>
-        <li>Introduces "philosophical probes" as a self-referential prompt engineering method for qualitative conceptual research with AI systems.</li>
-        <li>Opens new avenues for more stable, culturally inclusive, and less adversarial long-term AI development models.</li>
-    </ul>
+    <strong>Yuan, Y.</strong> (2025). <em>Ontological Alignment: Moving Beyond the Social Contract Through Civilizational Ontology</em>. Manuscript in preparation for FAccT 2026.
 </div>
 
 <div style="margin-top:1em;">

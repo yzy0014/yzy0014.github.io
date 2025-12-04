@@ -40,7 +40,7 @@ This project investigates how large language models encode cultural stereotypes,
   <li><strong>Methods:</strong> Ablation studies, Riemannian geometry, SPD manifold analysis, UMAP dimensionality reduction, cultural identity detection</li>
   <li><strong>Tools:</strong> Analysis conducted with GPT-4o samples, figures produced in Python/R</li>
   <li><strong>Data Source:</strong> GPT-4o generated personality profiles across cultural identities</li>
-  <li><strong>Status:</strong> Manuscript in preparation for ICML 2025</li>
+  <li><strong>Status:</strong> Manuscript in preparation for ICML 2026</li>
 </ul>
 </div>
 
