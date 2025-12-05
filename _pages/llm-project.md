@@ -13,7 +13,7 @@ spacing: single
 <h2 style="font-family:Times New Roman; font-size:1.2em;">LLM Stereotype Encoding Through Personality Structure Rotation</h2>
 
 <div style="font-family:Times New Roman; font-size:0.75em; margin-bottom:1.5em;">
-This project investigates how large language models (LLMs) encode cultural stereotypes. The results reveal that LLMs primarily operate through rotating covariance structures in personality space rather than simple mean score shifts. The research challenges traditional assumptions about AI persona-simulation and proposes novel mathematical frameworks for understanding stereotype representation in neural language models.
+This project investigates how large language models (LLMs) encode cultural stereotypes. Our findings reveal that LLMs primarily operate through rotating covariance structures in personality space rather than simple mean score shifts. The research challenges traditional assumptions about AI persona-simulation and proposes novel mathematical frameworks for understanding stereotype representation in neural language models.
 </div>
 
 <h3 style="font-family:Times New Roman; font-size:1em; margin-top:2em;">Research Overview</h3>
@@ -26,10 +26,10 @@ Traditional approaches to understanding AI bias focus on mean score differences 
 
 <div style="font-family:Times New Roman; font-size:0.75em;">
 <ul style="margin-top: 0.5em;">
-  <li><strong>Covariance Structure Rotation:</strong> LLMs' encoding of cultural personality stereotypes is based on rotation of the SPD (Symmetric Positive Definite) manifold of personality matrix, rather than simply shifting mean values/personality scores.</li>
-  <li><strong>High Classification Accuracy:</strong> Achieved 97.41% clustering accuracy using Riemannian geometry on SPD manifolds. Meanwhile, only 50% clustering accuracy on personality eigenvalues (which means the differences are emerged based on eigenvector rotation rather than eigenvalue scale-shift).</li>
-  <li><strong>Methodological Innovation:</strong> Developed novel ablation study comparing five different methods for LLM persona-simulation mechanism.</li>
-  <li><strong>Theoretical Framework:</strong> Established mathematical foundations for understanding stereotype encoding in high-dimensional LLM persona spaces.</li>
+  <li><strong>Personality Structure Rotation:</strong> LLM encoding of cultural personality stereotypes operates through rotation of the personality matrix over the manifold, rather than simple translation of mean personality scores.</li>
+  <li><strong>Classification Accuracy:</strong> Clustering accuracy based on Big Five personality scores reached 99.5% across all cultural samples. Geometric representations on the manifold achieved 97.41% accuracy. In stark contrast, clustering accuracy based on personality eigenvalues yielded only 50%.</li>
+  <li><strong>Methodological Innovation:</strong> We developed a comprehensive ablation study comparing five different LLM personality simulation methods.</li>
+  <li><strong>Theoretical Framework:</strong> We established mathematical foundations for understanding stereotype encoding in high-dimensional LLM personality spaces.</li>
 </ul>
 </div>
 
@@ -60,22 +60,22 @@ Traditional approaches to understanding AI bias focus on mean score differences 
 <div style="font-family:Times New Roman; font-size:0.75em;">
 <strong>Data Collection:</strong>
 <ul style="margin-top: 0.5em;">
-  <li>200 LLM generated personality profiles across diverse cultural identities under controlled experimental conditions</li>
+  <li>200 LLM-generated personality profiles across diverse cultural identities under controlled experimental conditions</li>
 </ul>
 
 <strong>Analytical Methods:</strong>
 <ul style="margin-top: 0.5em;">
-  <li>We build geometric representations for each participant's personality space from each culture. We use UMAP to visualize the high-dimensional manifold and then cluster the features using unsupervised methods to obtain accuracy.</li>
+  <li>We constructed geometric representations for each participant's personality space within each cultural context. We employed UMAP to visualize the high-dimensional manifold and applied unsupervised clustering methods to obtain classification accuracy.</li>
 </ul>
 
 <strong>Ablation Studies:</strong>
 <ul style="margin-top: 0.5em;">
-  <li>We systematically compared the above results with raw personality scores, eigenvalues, and different dimension-reduction methods.</li>
+  <li>We systematically compared these results with raw personality scores, eigenvalues, and alternative dimension-reduction methods.</li>
 </ul>
 
 <strong>Tools & Implementation:</strong>
 <ul style="margin-top: 0.5em;">
-  <li>Analysis conducted with GPT-4o API integration implemented in R</li>
+  <li>Analysis conducted using GPT-4o API integration implemented in R</li>
   <li>Custom visualization tools for manifold analysis</li>
   <li>Reproducible research framework with version control</li>
 </ul>
@@ -84,21 +84,21 @@ Traditional approaches to understanding AI bias focus on mean score differences 
 <h3 style="font-family:Times New Roman; font-size:1em; margin-top:2em;">Theoretical Implications</h3>
 
 <div style="font-family:Times New Roman; font-size:0.75em;">
-Our findings reveal that cultural stereotypes are encoded geometrically rather than analytically. When LLMs simulate different cultural personalities, their fundamental operation lies in adjusting the covariance structure (eigenvector rotation) among personality traits. This deep structural change directly leads to the significant mean shifts observed along trait dimensions.
+Our findings reveal that cultural stereotypes are encoded geometrically rather than analytically. When LLMs simulate different cultural personalities, their fundamental operation involves adjusting the covariance structure (eigenvector rotation) among personality traits. This deep structural transformation directly produces the significant mean shifts observed along trait dimensions.
 
 <div style="margin-top: 0.5em;">
-This discovery has profound implications for understanding AI bias: although mean shifts are highly efficient for classification tasks, they represent merely superficial symptoms of deeper structural changes. This provides a new computational perspective for understanding how LLMs encode social knowledge and challenges traditional approaches to bias detection and mitigation.
+This discovery has profound implications for understanding AI bias: although mean shifts are highly efficient for classification tasks, they represent merely superficial manifestations of deeper structural changes. This provides a novel computational perspective for understanding how LLMs encode social knowledge and challenges traditional approaches to bias detection and mitigation.
 </div>
 </div>
 
-<h3 style="font-family:Times New Roman; font-size:1em; margin-top:2em;">Research Impact & Future Work</h3>
+<h3 style="font-family:Times New Roman; font-size:1em; margin-top:2em;">Research Impact & Future Directions</h3>
 
 <div style="font-family:Times New Roman; font-size:0.75em;">
-This work challenges the conventional understanding of AI bias by revealing that stereotype encoding operates through geometric transformations rather than simple statistical shifts. The research opens several important avenues for future investigation:
+This work fundamentally challenges conventional understanding of AI bias by demonstrating that stereotype encoding operates through geometric transformations rather than simple statistical shifts. The research opens several critical avenues for future investigation:
 
 <ul style="margin-top: 0.5em;">
-  <li><strong>AI Fairness:</strong> New approaches to bias detection and mitigation in language models based on geometric understanding</li>
-  <li><strong>Cultural Sensitivity:</strong> Framework for developing more culturally aware AI systems through manifold-based approaches</li>
+  <li><strong>AI Fairness:</strong> Novel approaches to bias detection and mitigation in language models based on geometric understanding</li>
+  <li><strong>Cultural Sensitivity:</strong> Frameworks for developing more culturally aware AI systems through manifold-based approaches</li>
   <li><strong>Theoretical Foundations:</strong> Mathematical models for understanding stereotype representation in neural networks</li>
   <li><strong>Practical Applications:</strong> Tools for auditing and improving LLM behavior across cultures using Riemannian geometry</li>
 </ul>
@@ -110,7 +110,7 @@ This work challenges the conventional understanding of AI bias by revealing that
 <strong>Manuscript in preparation for ICML 2025</strong><br>
 <em>"How LLMs Encode Stereotypes: Rotating Personality Structures, Not Just Shifting Scores"</em>
 
-This work represents a significant contribution to the understanding of bias mechanisms in large language models and provides novel theoretical and practical frameworks for addressing cultural representation in AI systems.
+This work represents a significant contribution to understanding bias mechanisms in large language models and provides novel theoretical and practical frameworks for addressing cultural representation in AI systems.
 </div>
 
 <div style="font-family:Times New Roman; font-size:0.75em; margin-top:2em; padding:1em; background-color:#f9f9f9; border-left:4px solid #4a4a4a;">
