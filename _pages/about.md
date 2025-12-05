@@ -12,13 +12,13 @@ spacing: single
 
 <h2 style="font-family:Times New Roman; font-size:1.2em;">Yuan Yuan</h2>
 
-<span style="font-family:Times New Roman; font-size:0.75em;"> I am a computational neuroscientist and statistician passionate about uncovering hidden patterns in complex data. My expertise lies in high-dimensional data analysis and functional neuroimaging, where I develop innovative statistical methods to decode the mysteries of the brain and behavior.</span>
+<span style="font-family:Times New Roman; font-size:0.75em;"> I am a computational neuroscientist and statistician passionate about uncovering patterns in complex data. My work bridges statistics, neuroscience, and AI to understand how the brain works and how machines learn.</span>
 
-<span style="font-family:Times New Roman; font-size:0.75em;"> My research toolkit includes cutting-edge techniques such as high dimensional statistics, time-series analysis, and manifold-based methods. I apply these approaches to diverse datasets—from neuroimaging and biostatistics to social behavior research.</span>
+<span style="font-family:Times New Roman; font-size:0.75em;"> I specialize in high-dimensional statistics, time-series analysis, and manifold-based methods—applying these tools from brain imaging to social behavior research.</span>
 
-<span style="font-family:Times New Roman; font-size:0.75em;"> Recently, I've been expanding into theoretical AI research, focusing on AI alignment problems and LLM behavior. I investigate how LLMs encode cultural stereotypes and propose novel philosophical frameworks for AI alignment that move beyond traditional approaches. I have manuscripts in preparation for FAccT, ICML, and NeurIPS. <a href="/posts/2025/12/llm-stereotype-encoding/" style="font-weight:bold;">[Learn more about my LLM research →]</a></span>
+<span style="font-family:Times New Roman; font-size:0.75em;"> Recently, I've expanded into AI research with two connected projects: investigating how LLMs encode cultural stereotypes through mathematical analysis, and developing new frameworks for AI alignment. I'm currently preparing manuscripts from these projects for FAccT, ICML, and NeurIPS. <a href="/posts/2025/12/llm-stereotype-encoding/" style="font-weight:bold;">[Learn more about my LLM research →]</a></span>
 
-<span style="font-family:Times New Roman; font-size:0.75em;"> I hold a Ph.D. in Statistics (2021) from <a href="https://www.auburn.edu/">Auburn University</a> under <a href="https://www.auburn.edu/cosam/faculty/math_stats/billor/index.htm">Dr. Nedret Billor</a>, a M.S. in Psychology (2015) from <a href="https://cla.auburn.edu/directory/dan-svyantek/">Dr. Daniel Svyantek</a>, and a B.S. in Electrical Engineering (2010) from <a href="https://english.hust.edu.cn/">HUST</a>. </span>
+<span style="font-family:Times New Roman; font-size:0.75em;"> My interdisciplinary approach draws from diverse academic foundations: I hold a Ph.D. in Statistics (2021) from <a href="https://www.auburn.edu/">Auburn University</a> under <a href="https://www.auburn.edu/cosam/faculty/math_stats/billor/index.htm">Dr. Nedret Billor</a>, a M.S. in Psychology (2015) from <a href="https://cla.auburn.edu/directory/dan-svyantek/">Dr. Daniel Svyantek</a>, and a B.S. in Electrical Engineering (2010) from <a href="https://english.hust.edu.cn/">HUST</a>. </span>
 
 <div style="font-family:Times New Roman; font-size:0.75em; margin-top:1em; margin-bottom:1em; font-style:italic;">
 Interested in collaboration? <a href="#contact">Contact me below</a> or via <a href="mailto:yzy0014@auburn.edu">email</a>.
