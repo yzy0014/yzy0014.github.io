@@ -13,13 +13,7 @@ spacing: single
 <h2 style="font-family:Times New Roman; font-size:1.2em;">LLM Stereotype Encoding Through Personality Structure Rotation</h2>
 
 <div style="font-family:Times New Roman; font-size:0.75em; margin-bottom:1.5em;">
-This project investigates how large language models (LLMs) encode cultural stereotypes. Our findings reveal that LLMs primarily operate through rotating covariance structures in personality space rather than simple mean score shifts. The research challenges traditional assumptions about AI persona-simulation and proposes novel mathematical frameworks for understanding stereotype representation in neural language models.
-</div>
-
-<h3 style="font-family:Times New Roman; font-size:1em; margin-top:2em;">Research Overview</h3>
-
-<div style="font-family:Times New Roman; font-size:0.75em;">
-Traditional approaches to understanding AI bias focus on mean score differences across demographic groups. However, our research reveals a more sophisticated mechanism: LLMs encode cultural stereotypes primarily through rotations of covariance structures in personality space. This finding has profound implications for AI fairness, alignment, and the development of more culturally sensitive language models.
+This project investigates how large language models (LLMs) encode cultural stereotypes. Traditional approaches to understanding AI bias focus on mean score differences across demographic groups. However, our research reveals a more sophisticated mechanism: LLMs encode cultural stereotypes primarily through rotations of covariance structures in personality space rather than simple mean score shifts. This finding challenges traditional assumptions about AI persona-simulation, proposes novel mathematical frameworks for understanding stereotype representation in neural language models, and has profound implications for AI fairness, alignment, and the development of more culturally sensitive language models.
 </div>
 
 <h3 style="font-family:Times New Roman; font-size:1em; margin-top:2em;">Key Findings</h3>
