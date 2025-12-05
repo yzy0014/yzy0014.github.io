@@ -12,9 +12,14 @@ spacing: single
 
 <h2 style="font-family:Times New Roman; font-size:1.2em;">LLM Stereotype Encoding Through Personality Structure Rotation</h2>
 
+<h3 style="font-family:Times New Roman; font-size:1em; margin-top:2em;">Overview</h3>
+
+
 <div style="font-family:Times New Roman; font-size:0.75em; margin-bottom:1.5em;">
 This project investigates how large language models encode cultural stereotypes at the representational level. While traditional approaches to AI bias focus on mean score differences across demographic groups, our research reveals a fundamentally different mechanism: LLMs encode cultural stereotypes primarily through geometric transformations in personality space—specifically, rotations of covariance structures rather than simple mean shifts.
+</div>
 
+<div style="font-family:Times New Roman; font-size:0.75em; margin-bottom:1.5em;">
 This finding provides new mathematical frameworks for understanding stereotype representation in neural language models, with implications for AI fairness, alignment, and the development of culturally sensitive systems.
 </div>
 
