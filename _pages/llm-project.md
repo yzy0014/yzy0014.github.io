@@ -13,7 +13,7 @@ spacing: single
 <h2 style="font-family:Times New Roman; font-size:1.2em;">LLM Stereotype Encoding Through Personality Structure Rotation</h2>
 
 <div style="font-family:Times New Roman; font-size:0.75em; margin-bottom:1.5em;">
-This project investigates how large language models encode cultural stereotypes, revealing that LLMs primarily operate through rotating covariance structures in personality space rather than simple mean score shifts. The research challenges traditional assumptions about AI bias and proposes novel mathematical frameworks for understanding stereotype representation in neural language models.
+This project investigates how large language models (LLMs) encode cultural stereotypes. The results revealing that LLMs primarily operate through rotating covariance structures in personality space rather than simple mean score shifts. The research challenges traditional assumptions about AI persona-simulation and proposes novel mathematical frameworks for understanding stereotype representation in neural language models.
 </div>
 
 <h3 style="font-family:Times New Roman; font-size:1em; margin-top:2em;">Research Overview</h3>
@@ -26,10 +26,10 @@ Traditional approaches to understanding AI bias focus on mean score differences 
 
 <div style="font-family:Times New Roman; font-size:0.75em;">
 <ul style="margin-top: 0.5em;">
-  <li><strong>Covariance Structure Rotation:</strong> LLMs encode stereotypes by rotating the covariance matrix of personality traits rather than simply shifting mean values</li>
-  <li><strong>High Classification Accuracy:</strong> Achieved 97.41% clustering accuracy using Riemannian geometry on SPD (Symmetric Positive Definite) manifolds</li>
-  <li><strong>Methodological Innovation:</strong> Developed novel ablation study comparing five different methods for cultural identity detection</li>
-  <li><strong>Theoretical Framework:</strong> Established mathematical foundations for understanding stereotype encoding in high-dimensional personality spaces</li>
+  <li><strong>Covariance Structure Rotation:</strong> LLMs' encoding of cultural personality stereotypes is based on rotation of the SPD (Symmetric Positive Definite) manifold of personality matrix, rather than simply shifting mean values/personality scores.</li>
+  <li><strong>High Classification Accuracy:</strong> Achieved 97.41% clustering accuracy using Riemannian geometry on SPD manifolds. Meanwhile, only 50% clustering accuracy on personality eigenvalues (which means the differences are emerged based on eigenvector rotation rather than eigenvalue scale-shift).</li>
+  <li><strong>Methodological Innovation:</strong> Developed novel ablation study comparing five different methods for LLM persona-simulation mechanism.</li>
+  <li><strong>Theoretical Framework:</strong> Established mathematical foundations for understanding stereotype encoding in high-dimensional LLM persona spaces.</li>
 </ul>
 </div>
 
