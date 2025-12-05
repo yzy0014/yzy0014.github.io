@@ -1,7 +1,7 @@
 ---
 title: "LLM Stereotype Encoding Through Personality Structure Rotation"
-date: 2025-12-04
-permalink: /posts/2025/12/llm-stereotype-encoding/
+date: 2024-12-04
+permalink: /posts/2024/12/llm-stereotype-encoding/
 tags:
   - AI alignment
   - LLM bias

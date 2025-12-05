@@ -10,13 +10,40 @@ fontsize: 8pt
 spacing: single
 ---
 
-<div style="font-family:Times New Roman; font-size:0.75em; margin: 2em 0;">
-    <h3 style="font-size: 1.2em; margin-bottom: 0.5em;">T32 Interview Talk - July 2024</h3>
-    <p style="margin-bottom: 1em;">This is a copy of my presentation for the T32 Postdoctoral Fellowship interview at Stanford University.</p>
-    <p><a href="/assets/images/yy/T32-slides.pdf" download style="text-decoration: none; display: inline-block; padding: 0.5em 1em; background-color: #f8f9fa; border: 1px solid #dee2e6; border-radius: 4px; color: #212529;">
-        <i class="fas fa-download" style="margin-right: 0.5em;"></i>Download Presentation Slides (PDF)
-    </a></p>
-    <p><a href="/LLM-Project/">[Learn more about my LLM research →]</a></p>
+<h2 style="font-family:Times New Roman; font-size:1.2em;">Blog & Recent Posts</h2>
+
+<div style="font-family:Times New Roman; font-size:0.75em;">
+Welcome to my blog where I share insights about statistics, neuroscience, and AI research.
+</div>
+
+<h3 style="font-family:Times New Roman; font-size:1em; margin-top:1.5em;">Recent Posts</h3>
+
+<div style="font-family:Times New Roman; font-size:0.75em;">
+<ul style="list-style-type: none; padding-left: 0;">
+    <li style="margin-bottom: 1.5em;">
+        <strong><a href="/posts/2025/12/llm-stereotype-encoding/">LLM Stereotype Encoding Through Personality Structure Rotation</a></strong><br>
+        <em>December 4, 2025</em><br>
+        This research investigates how large language models encode cultural stereotypes, revealing that LLMs primarily operate through rotating covariance structures in personality space rather than simple mean score shifts.
+        <br><strong>Tags:</strong> AI alignment, LLM bias, cultural stereotypes, Riemannian geometry
+    </li>
+</ul>
+</div>
+
+<h3 style="font-family:Times New Roman; font-size:1em; margin-top:1.5em;">Presentations & Resources</h3>
+
+<div style="font-family:Times New Roman; font-size:0.75em;">
+<ul style="list-style-type: none; padding-left: 0;">
+    <li style="margin-bottom: 1em;">
+        <strong>T32 Postdoctoral Candidate Presentation</strong><br>
+        <em>Stanford University, July 2024</em><br>
+        Developmental Neuropsychiatry Research Presentation<br>
+        <a href="/assets/documents/T32_presentation.pdf" download>[Download Slides]</a>
+    </li>
+</ul>
+</div>
+
+<div style="font-family:Times New Roman; font-size:0.75em; margin-top:2em; padding:1em; background-color:#f9f9f9; border-left:4px solid #4a4a4a;">
+<strong>Note:</strong> For a comprehensive overview of my LLM research, visit the dedicated <a href="/LLM-Project/">LLM Research page</a> which includes detailed methodology, technical analysis, and all research figures.
 </div>
 
 
