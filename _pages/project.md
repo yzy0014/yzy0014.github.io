@@ -23,7 +23,7 @@ This project focuses on developing novel feature screening techniques for high-d
 </div>
 
 <figure>
-  <img src="/assets/images/yy/fMRI_project.png" alt="Project 1 Image" style="max-width:100%;height:auto;">
+  <img src="/assets/images/yy/fMRI-project.png" alt="Project 1 Image" style="max-width:100%;height:auto;">
 </figure>
 
 <div style="font-family:Times New Roman; font-size:0.75em; margin-top:1em;">

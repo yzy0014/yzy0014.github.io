@@ -14,12 +14,14 @@ main:
 
   - title: "About"
     url: /About/
+  - title: "LLM Research"
+    url: /LLM-Project/
   - title: "Research"
     url: /Research/
-  - title: "Project"
-    url: /Project/
-  - title: "Publication"
+  - title: "Publications"
     url: /Publications/
+  - title: "Projects"
+    url: /Project/
   - title: "Blog"
     url: /Blogs/
 

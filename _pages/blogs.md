@@ -16,6 +16,7 @@ spacing: single
     <p><a href="/assets/images/yy/T32-slides.pdf" download style="text-decoration: none; display: inline-block; padding: 0.5em 1em; background-color: #f8f9fa; border: 1px solid #dee2e6; border-radius: 4px; color: #212529;">
         <i class="fas fa-download" style="margin-right: 0.5em;"></i>Download Presentation Slides (PDF)
     </a></p>
+    <p><a href="/LLM-Project/">[Learn more about my LLM research →]</a></p>
 </div>
 
 
