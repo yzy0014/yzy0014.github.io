@@ -16,8 +16,6 @@ spacing: single
 
 <span style="font-family:Times New Roman; font-size:0.75em;"> I specialize in high-dimensional statistics, time-series analysis, and manifold-based methods—applying these tools from brain imaging to social behavior research.</span>
 
-<span style="font-family:Times New Roman; font-size:0.75em;"> Recently, I've expanded into AI research with two connected projects: investigating how LLMs encode cultural stereotypes through novel geometric representations, and developing a new framework for AI alignment. I'm currently preparing manuscripts from these projects for FAccT, ICML, and NeurIPS. <a href="/posts/2025/12/llm-stereotype-encoding/" style="font-weight:bold;">[Learn more about my LLM research →]</a></span>
-
 <span style="font-family:Times New Roman; font-size:0.75em;"> My interdisciplinary approach draws from diverse academic foundations: I hold a Ph.D. in Statistics (2021) from <a href="https://www.auburn.edu/">Auburn University</a> under <a href="https://www.auburn.edu/cosam/faculty/math_stats/billor/index.htm">Dr. Nedret Billor</a>, a M.S. in Psychology (2015) from <a href="https://cla.auburn.edu/directory/dan-svyantek/">Dr. Daniel Svyantek</a>, and a B.S. in Electrical Engineering (2010) from <a href="https://english.hust.edu.cn/">HUST</a>. </span>
 
 <div style="font-family:Times New Roman; font-size:0.75em; margin-top:1em; margin-bottom:1em; font-style:italic;">

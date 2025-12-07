@@ -20,12 +20,6 @@ Welcome to my blog where I share insights about statistics, neuroscience, and AI
 
 <div style="font-family:Times New Roman; font-size:0.75em;">
 <ul style="list-style-type: none; padding-left: 0;">
-    <li style="margin-bottom: 1.5em;">
-        <strong><a href="/posts/2025/12/llm-stereotype-encoding/">LLM Stereotype Encoding Through Personality Structure Rotation</a></strong><br>
-        <em>December 4, 2025</em><br>
-        This research investigates how large language models encode cultural stereotypes, revealing that LLMs primarily operate through rotating covariance structures in personality space rather than simple mean score shifts.
-        <br><strong>Tags:</strong> AI alignment, LLM bias, cultural stereotypes, Riemannian geometry
-    </li>
 </ul>
 </div>
 
@@ -40,10 +34,6 @@ Welcome to my blog where I share insights about statistics, neuroscience, and AI
         <a href="/assets/documents/T32_presentation.pdf" download>[Download Slides]</a>
     </li>
 </ul>
-</div>
-
-<div style="font-family:Times New Roman; font-size:0.75em; margin-top:2em; padding:1em; background-color:#f9f9f9; border-left:4px solid #4a4a4a;">
-<strong>Note:</strong> For a comprehensive overview of my LLM research, visit the dedicated <a href="/LLM-Project/">LLM Research page</a> which includes detailed methodology, technical analysis, and all research figures.
 </div>
 
 

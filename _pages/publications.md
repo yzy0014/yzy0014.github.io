@@ -33,7 +33,8 @@ spacing: single
 </div>
 
 <div style="margin-top:1em;">
-    Yuan, Y., Billor, N., & Zheng, J. (2025 Est.). <em>Encode and reconstruction of calcium fluorescence imaging video: a spatiotemporal approach for epileptic seizure in zebrafish larva</em>. Manuscript under preparation.
+    <strong>Yuan, Y.</strong>, Billor, N., & Zheng, J. (2025 Est.). <em>Predicting calcium fluorescence imaging video with CNN: a novel preprocessing approach for epileptic seizure in zebrafish larva</em>. Manuscript in preparation for ICML 2026.
+</div>
 </div>
 
 </div>
