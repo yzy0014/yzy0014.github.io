@@ -12,23 +12,17 @@ excerpt: "This research investigates how large language models encode cultural s
 ---
 
 <div style="font-family:Times New Roman; font-size:0.75em; margin-bottom:1.5em;">
-This project investigates how large language models (LLMs) encode cultural stereotypes. The results revealing that LLMs primarily operate through rotating covariance structures in personality space rather than simple mean score shifts. The research challenges traditional assumptions about AI persona-simulation and proposes novel mathematical frameworks for understanding stereotype representation in neural language models.
-</div>
-
-<h3 style="font-family:Times New Roman; font-size:1em; margin-top:2em;">Research Overview</h3>
-
-<div style="font-family:Times New Roman; font-size:0.75em;">
-Traditional approaches to understanding AI bias focus on mean score differences across demographic groups. However, our research reveals a more sophisticated mechanism: LLMs encode cultural stereotypes primarily through rotations of covariance structures in personality space. This finding has profound implications for AI fairness, alignment, and the development of more culturally sensitive language models.
+This project investigates how large language models (LLMs) encode cultural stereotypes. Traditional approaches to understanding AI bias focus on mean score differences across demographic groups. However, our research reveals a more sophisticated mechanism: LLMs encode cultural stereotypes primarily through rotations of covariance structures in personality space rather than simple mean score shifts. This finding challenges traditional assumptions about AI persona-simulation, proposes novel mathematical frameworks for understanding stereotype representation in neural language models, and has profound implications for AI fairness, alignment, and the development of more culturally sensitive language models.
 </div>
 
 <h3 style="font-family:Times New Roman; font-size:1em; margin-top:2em;">Key Findings</h3>
 
 <div style="font-family:Times New Roman; font-size:0.75em;">
 <ul style="margin-top: 0.5em;">
-  <li><strong>Covariance Structure Rotation:</strong> LLMs' encoding of cultural personality stereotypes is based on rotation of the SPD (Symmetric Positive Definite) manifold of personality matrix, rather than simply shifting mean values/personality scores.</li>
-  <li><strong>High Classification Accuracy:</strong> Achieved 97.41% clustering accuracy using Riemannian geometry on SPD manifolds. Meanwhile, only 50% clustering accuracy on personality eigenvalues (which means the differences are emerged based on eigenvector rotation rather than eigenvalue scale-shift).</li>
-  <li><strong>Methodological Innovation:</strong> Developed novel ablation study comparing five different methods for LLM persona-simulation mechanism.</li>
-  <li><strong>Theoretical Framework:</strong> Established mathematical foundations for understanding stereotype encoding in high-dimensional LLM persona spaces.</li>
+  <li><strong>Personality Structure Rotation:</strong> LLM encoding of cultural personality stereotypes operates through rotation of the personality matrix over the manifold, rather than simple translation of mean personality scores.</li>
+  <li><strong>Classification Accuracy:</strong> Clustering accuracy based on Big Five personality scores reached 99.5% across all cultural samples. Geometric representations on the manifold achieved 97.41% accuracy. In stark contrast, clustering accuracy based on personality eigenvalues yielded only 50%.</li>
+  <li><strong>Methodological Innovation:</strong> We developed a comprehensive ablation study comparing five different LLM personality simulation methods.</li>
+  <li><strong>Theoretical Framework:</strong> We established mathematical foundations for understanding stereotype encoding in high-dimensional LLM personality spaces.</li>
 </ul>
 </div>
 
@@ -59,38 +53,47 @@ Traditional approaches to understanding AI bias focus on mean score differences 
 <div style="font-family:Times New Roman; font-size:0.75em;">
 <strong>Data Collection:</strong>
 <ul style="margin-top: 0.5em;">
-  <li>200 GPT-4o generated personality profiles across diverse cultural identities</li>
-  <li>Systematic sampling across multiple demographic dimensions</li>
-  <li>Controlled experimental conditions to ensure methodological rigor</li>
+  <li>200 LLM-generated personality profiles across diverse cultural identities under controlled experimental conditions</li>
 </ul>
 
 <strong>Analytical Methods:</strong>
 <ul style="margin-top: 0.5em;">
-  <li><strong>Riemannian Geometry:</strong> Analysis on SPD manifolds for covariance structure comparison</li>
-  <li><strong>UMAP Dimensionality Reduction:</strong> Visualization of high-dimensional personality spaces</li>
-  <li><strong>Ablation Studies:</strong> Systematic comparison of five different detection methods</li>
-  <li><strong>Cultural Identity Detection:</strong> Novel algorithms for identifying encoded stereotypes</li>
+  <li>We constructed geometric representations for each participant's personality space within each cultural context. We employed UMAP to visualize the high-dimensional manifold and applied unsupervised clustering methods to obtain classification accuracy.</li>
+</ul>
+
+<strong>Ablation Studies:</strong>
+<ul style="margin-top: 0.5em;">
+  <li>We systematically compared these results with raw personality scores, eigenvalues, and alternative dimension-reduction methods.</li>
 </ul>
 
 <strong>Tools & Implementation:</strong>
 <ul style="margin-top: 0.5em;">
-  <li>Analysis conducted with GPT-4o API integration</li>
-  <li>Python/R implementation with specialized statistical libraries</li>
+  <li>Analysis conducted using GPT-4o API integration implemented in R</li>
   <li>Custom visualization tools for manifold analysis</li>
   <li>Reproducible research framework with version control</li>
 </ul>
 </div>
 
-<h3 style="font-family:Times New Roman; font-size:1em; margin-top:2em;">Implications & Future Work</h3>
+<h3 style="font-family:Times New Roman; font-size:1em; margin-top:2em;">Theoretical Implications</h3>
 
 <div style="font-family:Times New Roman; font-size:0.75em;">
-This research opens several important avenues for future investigation:
+Our findings reveal that cultural stereotypes are encoded geometrically rather than analytically. When LLMs simulate different cultural personalities, their fundamental operation involves adjusting the covariance structure (eigenvector rotation) among personality traits. This deep structural transformation directly produces the significant mean shifts observed along trait dimensions.
+
+<div style="margin-top: 0.5em;">
+This discovery has profound implications for understanding AI bias: although mean shifts are highly efficient for classification tasks, they represent merely superficial manifestations of deeper structural changes. This provides a novel computational perspective for understanding how LLMs encode social knowledge and challenges traditional approaches to bias detection and mitigation.
+</div>
+</div>
+
+<h3 style="font-family:Times New Roman; font-size:1em; margin-top:2em;">Research Impact & Future Directions</h3>
+
+<div style="font-family:Times New Roman; font-size:0.75em;">
+This work fundamentally challenges conventional understanding of AI bias by demonstrating that stereotype encoding operates through geometric transformations rather than simple statistical shifts. The research opens several critical avenues for future investigation:
 
 <ul style="margin-top: 0.5em;">
-  <li><strong>AI Fairness:</strong> New approaches to bias detection and mitigation in language models</li>
-  <li><strong>Cultural Sensitivity:</strong> Framework for developing more culturally aware AI systems</li>
-  <li><strong>Theoretical Foundations:</strong> Mathematical models for understanding stereotype representation</li>
-  <li><strong>Practical Applications:</strong> Tools for auditing and improving LLM behavior across cultures</li>
+  <li><strong>AI Fairness:</strong> Novel approaches to bias detection and mitigation in language models based on geometric understanding</li>
+  <li><strong>Cultural Sensitivity:</strong> Frameworks for developing more culturally aware AI systems through manifold-based approaches</li>
+  <li><strong>Theoretical Foundations:</strong> Mathematical models for understanding stereotype representation in neural networks</li>
+  <li><strong>Practical Applications:</strong> Tools for auditing and improving LLM behavior across cultures using Riemannian geometry</li>
 </ul>
 </div>
 
@@ -100,9 +103,9 @@ This research opens several important avenues for future investigation:
 <strong>Manuscript in preparation for ICML 2025</strong><br>
 <em>"How LLMs Encode Stereotypes: Rotating Personality Structures, Not Just Shifting Scores"</em>
 
-This work represents a significant contribution to the understanding of bias mechanisms in large language models and provides novel theoretical and practical frameworks for addressing cultural representation in AI systems.
+This work represents a significant contribution to understanding bias mechanisms in large language models and provides novel theoretical and practical frameworks for addressing cultural representation in AI systems.
 </div>
 
 <div style="font-family:Times New Roman; font-size:0.75em; margin-top:2em; padding:1em; background-color:#f9f9f9; border-left:4px solid #4a4a4a;">
-<strong>Related Work:</strong> This research connects to broader investigations in AI alignment and cultural representation, including work on <a href="/Publications/">philosophical frameworks for AI alignment</a> and <a href="/Research/">cross-cultural AI ethics</a>. For more comprehensive technical details, visit the <a href="/LLM-Project/">dedicated LLM Research page</a>.
+<strong>Related Work:</strong> This research connects to broader investigations in AI alignment and cultural representation, including work on <a href="/Publications/">philosophical frameworks for AI alignment</a> and <a href="/Research/">cross-cultural AI ethics</a>. For a shorter overview, see the <a href="/posts/2025/12/llm-stereotype-encoding/">blog post version</a> of this research.
 </div>
