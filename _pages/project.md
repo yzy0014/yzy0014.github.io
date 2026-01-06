@@ -71,8 +71,6 @@ Building on the same zebrafish calcium imaging dataset from Project 2, this proj
 <strong>Key Findings:</strong>
 <ul>
   <li><strong>High Classification Accuracy:</strong> Achieved 82.6% accuracy in distinguishing ictal vs. interictal brain states using unsupervised K-means clustering on UMAP-reduced latent space</li>
-  <li><strong>Spatial Stability vs. Directional Chaos Paradigm:</strong> Discovered that ictal phases exhibit low spatial movement but high directional chaos (angular velocity: 68.9°/frame), while interictal phases show high spatial activity with directional order (angular velocity: 43.0°/frame)</li>
-  <li><strong>Perfect Curvature Prediction:</strong> Achieved R² = 100% for trajectory curvature prediction using physics-based modeling with 18 distinct physical quantities</li>
   <li><strong>Metastable Dynamics Framework:</strong> Seizure transitions follow stochastic metastable dynamics rather than deterministic patterns, with noise-induced phase transitions resembling thermodynamic phase changes</li>
 </ul>
 </div>
