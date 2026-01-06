@@ -5,7 +5,7 @@ permalink: /posts/2025/12/llm-stereotype-encoding/
 tags:
   - AI alignment
   - LLM bias
-  - cultural stereotypes
+  - cultural stereotypesz
   - Riemannian geometry
   - machine learning
 excerpt: "This research investigates how large language models encode cultural stereotypes, revealing that LLMs primarily operate through rotating covariance structures in personality space rather than simple mean score shifts."
