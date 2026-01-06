@@ -4,11 +4,11 @@ main:
     url: /About/
   - title: "LLM Research"
     url: /LLM-Project/
-  - title: "Research"
+  - title: "Overview"
     url: /Research/
   - title: "Publications"
     url: /Publications/
-  - title: "Projects"
+  - title: "Bio-Medical Research"
     url: /Project/
   - title: "Blog"
     url: /Blogs/

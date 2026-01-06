@@ -108,5 +108,5 @@ This work represents a significant contribution to understanding bias mechanisms
 </div>
 
 <div style="font-family:Times New Roman; font-size:0.75em; margin-top:2em; padding:1em; background-color:#f9f9f9; border-left:4px solid #4a4a4a;">
-<strong>Related Work:</strong> This research connects to broader investigations in AI alignment and cultural representation, including work on <a href="/Publications/">philosophical frameworks for AI alignment</a> and <a href="/Research/">cross-cultural AI ethics</a>. For a shorter overview, see the <a href="/posts/2025/12/llm-stereotype-encoding/">blog post version</a> of this research.
+<strong>Related Work:</strong> This research connects to broader investigations in AI alignment and cultural representation, including work on <a href="/Publications/">philosophical frameworks for AI alignment</a> and <a href="/Overview/">cross-cultural AI ethics</a>. For a shorter overview, see the <a href="/posts/2025/12/llm-stereotype-encoding/">blog post version</a> of this research.
 </div>
