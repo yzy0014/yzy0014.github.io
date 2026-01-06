@@ -35,7 +35,6 @@ spacing: single
 <div style="margin-top:1em;">
     <strong>Yuan, Y.</strong>, Billor, N., & Zheng, J. (2025 Est.). <em>Predicting calcium fluorescence imaging video with CNN: a novel preprocessing approach for epileptic seizure in zebrafish larva</em>. Manuscript in preparation for ICML 2026.
 </div>
-</div>
 
 </div>
 
