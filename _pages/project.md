@@ -12,10 +12,6 @@ spacing: single
 
 <h2 style="font-family:Times New Roman; font-size:1.2em;">Research Projects</h2>
 
-<div style="font-family:Times New Roman; font-size:0.75em; padding:1em; background-color:#f0f8ff; border-left:4px solid #4a90e2; margin-bottom:2em;">
-<strong>Featured Project:</strong> <a href="/LLM-Project/">LLM Stereotype Encoding Through Personality Structure Rotation</a> - A comprehensive investigation into how large language models encode cultural stereotypes through covariance structure rotation. <em>Manuscript in preparation for ICML 2025.</em>
-</div>
-
 <h3 style="font-family:Times New Roman; font-size:1em;">Project 1: Functional Feature Screening in fMRI Data</h3>
 
 <div style="font-family:Times New Roman; font-size:0.75em;">
@@ -63,7 +59,7 @@ This project involves analyzing calcium fluorescence imaging videos to understan
 <h3 style="font-family:Times New Roman; font-size:1em;">Project 3: Epileptic Brain Dynamics via Neural Network Latent Space Analysis</h3>
 
 <div style="font-family:Times New Roman; font-size:0.75em;">
-This project employs advanced machine learning and dynamical systems analysis to investigate epileptic seizure dynamics using neural network latent space trajectories. We uncovered a novel "spatial stability vs. directional chaos" paradigm that fundamentally characterizes ictal (seizure) and interictal (normal) brain states.
+Building on the same zebrafish calcium imaging dataset from Project 2, this project employs our novel spatiotemporal feature extraction and preprocessing pipeline combined with advanced machine learning and dynamical systems analysis to investigate epileptic seizure dynamics. This unique preprocessing approach significantly improved classification accuracy compared to raw data analysis. Using neural network latent space trajectories, we uncovered a novel "spatial stability vs. directional chaos" paradigm that fundamentally characterizes ictal (seizure) and interictal (normal) brain states.
 </div>
 
 <figure>
@@ -84,10 +80,11 @@ This project employs advanced machine learning and dynamical systems analysis to
 <div style="font-family:Times New Roman; font-size:0.75em; margin-top:1em;">
 <strong>Details & Resources:</strong>
 <ul>
-  <li><strong>Methods:</strong> Autoencoder neural networks (64-dimensional latent space), UMAP dimensionality reduction, K-means clustering, comprehensive physics-based trajectory analysis (18 physical quantities including velocity, acceleration, angular velocity, curvature, energy metrics)</li>
+  <li><strong>Data Source:</strong> Same calcium fluorescence imaging videos from zebrafish larvae as Project 2 (1995 frames, balanced ictal/interictal phases)</li>
+  <li><strong>Novel Preprocessing:</strong> Custom spatiotemporal feature extraction pipeline that significantly outperformed raw data approaches - balanced standardization achieved 82.6% accuracy vs. lower performance with raw data or standard z-score normalization</li>
+  <li><strong>Methods:</strong> Autoencoder neural networks (64-dimensional latent space), UMAP dimensionality reduction (optimized through testing 16 different combinations), K-means clustering, comprehensive physics-based trajectory analysis (18 physical quantities including velocity, acceleration, angular velocity, curvature, energy metrics)</li>
   <li><strong>Tools:</strong> Python (PyTorch for neural network training), R (UMAP, statistical analysis, visualization with ggplot2 and gganimate), circular statistics for angular analysis</li>
-  <li><strong>Data Source:</strong> Calcium fluorescence imaging videos from zebrafish larvae (1995 frames, balanced ictal/interictal phases)</li>
-  <li><strong>Innovation:</strong> First application of UMAP-based neural state dynamics to epilepsy latent representations; novel spatial vs. directional decomposition paradigm for seizure characterization</li>
+  <li><strong>Innovation:</strong> First application of UMAP-based neural state dynamics to epilepsy latent representations; novel spatial vs. directional decomposition paradigm for seizure characterization; custom preprocessing framework critical for achieving high classification accuracy</li>
   <li><strong>Status:</strong> Manuscript in preparation (November 2025 - January 2026)</li>
 </ul>
 </div>
