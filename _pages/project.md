@@ -84,8 +84,6 @@ Building on the same zebrafish calcium imaging dataset from Project 2, this proj
   <li><strong>Novel Preprocessing:</strong> Custom spatiotemporal feature extraction pipeline that significantly outperformed raw data approaches - balanced standardization achieved 82.6% accuracy vs. lower performance with raw data or standard z-score normalization</li>
   <li><strong>Methods:</strong> Autoencoder neural networks (64-dimensional latent space), UMAP dimensionality reduction (optimized through testing 16 different combinations), K-means clustering, comprehensive physics-based trajectory analysis (18 physical quantities including velocity, acceleration, angular velocity, curvature, energy metrics)</li>
   <li><strong>Tools:</strong> Python (PyTorch for neural network training), R (UMAP, statistical analysis, visualization with ggplot2 and gganimate), circular statistics for angular analysis</li>
-  <li><strong>Innovation:</strong> First application of UMAP-based neural state dynamics to epilepsy latent representations; novel spatial vs. directional decomposition paradigm for seizure characterization; custom preprocessing framework critical for achieving high classification accuracy</li>
-  <li><strong>Status:</strong> Manuscript in preparation (November 2025 - January 2026)</li>
 </ul>
 </div>
 
