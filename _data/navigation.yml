@@ -2,14 +2,14 @@
 main:
   - title: "About"
     url: /About/
-  - title: "LLM Research"
-    url: /LLM-Project/
   - title: "Overview"
     url: /Research/
   - title: "Publications"
     url: /Publications/
-  - title: "Bio-Medical Research"
+  - title: "BioMedical Research"
     url: /Project/
+  - title: "LLM Research"
+    url: /LLM-Project/
   - title: "Blog"
     url: /Blogs/
 
