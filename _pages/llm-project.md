@@ -31,14 +31,14 @@ This study examines how large language models encode cultural stereotypes in per
 <div style="font-family:Times New Roman; font-size:0.75em;">
 <strong>Data:</strong>
 <ul style="margin-top: 0.5em;">
-  <li>200 LLM-generated personality profiles across controlled cultural conditions</li>
+  <li>N=200 LLM-API generated personality profiles across controlled cultural conditions under fixed item order. </li>
 </ul>
 
 <strong>Analysis:</strong>
 <ul style="margin-top: 0.5em;">
-  <li>Geometric representations of personality space were constructed for each cultural context</li>
-  <li>UMAP was used for dimensionality reduction and visualization</li>
-  <li>Unsupervised clustering was applied to evaluate classification accuracy</li>
+  <li>Geometric representations of personality item score space (i.e., the SPD manifolds) were constructed for each API response from each cultural context. The tangent space mapped SPD manifolds are compared with BigFive scores as well as Eigenvalues from the covariance structure. </li>
+  <li>UMAP was used for dimensionality reduction and visualization;</li>
+  <li>Unsupervised clustering was applied to evaluate classification accuracy.</li>
 </ul>
 
 <strong>Ablation:</strong>
@@ -55,7 +55,7 @@ This study examines how large language models encode cultural stereotypes in per
 <h3 style="font-family:Times New Roman; font-size:1em; margin-top:2em;">Geometric Analysis</h3>
 
 <figure>
-  <img src="/assets/images/yy/Combined_Ablation_Study_Analysis.png" alt="Combined Ablation Study Analysis" style="max-width:100%;height:auto;">
+  <img src="/assets/images/yy/Combined_Ablation_Study_Analysis.png" alt="Combined Ablation Study Analysis" style="max-width:120%;height:auto;margin-left:-10%;">
   <figcaption style="font-family:Times New Roman; font-size:0.7em; font-style:italic; margin-top:0.5em;">Comprehensive ablation study comparing five methods for detecting cultural identities in LLM-simulated personalities</figcaption>
 </figure>
 
@@ -77,7 +77,24 @@ This study examines how large language models encode cultural stereotypes in per
 <h3 style="font-family:Times New Roman; font-size:1em; margin-top:2em;">Interpretation</h3>
 
 <div style="font-family:Times New Roman; font-size:0.75em;">
-The results indicate that when LLMs simulate cultural personalities, the primary operation is adjustment of the covariance structure (eigenvector rotation) among traits. Observed mean shifts along trait dimensions appear to be emergent from this deeper geometric transformation.
+
+<strong>Encoding Mechanism:</strong>
+<div style="margin-top:0.5em; margin-bottom:1em;">
+The current project indicates that LLMs encode cultural stereotypes primarily through rotation of personality covariance structures on a high-dimensional manifold, rather than through simple mean shifts in trait scores.
+</div>
+
+<strong>Other Findings (available upon request):</strong>
+
+<div style="margin-top:0.5em;">
+<em>Order Effects:</em><br>
+Controlled ablation experiments demonstrate that prompt order and randomization systematically alter the geometric organization of LLM-simulated personalities.
+</div>
+
+<div style="margin-top:0.5em;">
+<em>Human vs. LLM Comparison:</em><br>
+Geometric alignment analysis between LLM-generated personality representations and human personality data reveals structural similarities and divergences at the covariance level.
+</div>
+
 </div>
 
 <h3 style="font-family:Times New Roman; font-size:1em; margin-top:2em;">Publication Status</h3>
