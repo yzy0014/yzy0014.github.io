@@ -25,15 +25,11 @@ spacing: single
 <h3 style="font-family:Times New Roman; font-size:0.9em; color:#4a4a4a; margin-top:1.5em;">Under Review/Preparation</h3>
 
 <div style="margin-top:1em;">
-    <strong>Yuan, Y.</strong> (2025). <em>How LLMs Encode Stereotypes: Rotating Personality Structures, Not Just Shifting Scores</em>. Manuscript in preparation for ICML 2026.
+    <strong>Yuan, Y.</strong> (2026). <em>How LLMs Encode Stereotypes: Rotating Personality Structures, Not Just Shifting Scores</em>. Manuscript in preparation for Neurips 2026.
 </div>
 
 <div style="margin-top:1em;">
-    <strong>Yuan, Y.</strong> (2025). <em>Ontological Alignment: Moving Beyond the Social Contract Through Civilizational Ontology</em>. Manuscript in preparation for FAccT 2026.
-</div>
-
-<div style="margin-top:1em;">
-    <strong>Yuan, Y.</strong>, Billor, N., & Zheng, J. (2025 Est.). <em>Predicting calcium fluorescence imaging video with CNN: a novel preprocessing approach for epileptic seizure in zebrafish larva</em>. Manuscript in preparation for ICML 2026.
+    <strong>Yuan, Y.</strong>, Billor, N., & Zheng, J. (2026 Est.). <em>Predicting calcium fluorescence imaging video with CNN: a novel preprocessing approach for epileptic seizure in zebrafish larva</em>. Manuscript in preparation for ICML 2026.
 </div>
 
 </div>
