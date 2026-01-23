@@ -55,7 +55,7 @@ This study examines how large language models encode cultural stereotypes in per
 <h3 style="font-family:Times New Roman; font-size:1em; margin-top:2em;">Geometric Analysis</h3>
 
 <figure>
-  <img src="/assets/images/yy/Combined_Ablation_Study_Analysis.png" alt="Combined Ablation Study Analysis" style="max-width:120%;height:auto;margin-left:-10%;">
+  <img src="/assets/images/yy/Combined_Ablation_Study_Analysis.png" alt="Combined Ablation Study Analysis" style="max-width:140%;height:auto;margin-left:5%;">
   <figcaption style="font-family:Times New Roman; font-size:0.7em; font-style:italic; margin-top:0.5em;">Comprehensive ablation study comparing five methods for detecting cultural identities in LLM-simulated personalities</figcaption>
 </figure>
 
