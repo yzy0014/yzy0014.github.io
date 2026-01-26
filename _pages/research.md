@@ -10,41 +10,37 @@ fontsize: 8pt
 spacing: single
 ---
 
-<h2 style="font-family:Times New Roman; font-size:1.2em;">Research Interests</h2>
+<h2 style="font-family:Times New Roman; font-size:1.2em;">Research Overview</h2>
 
-<div style="font-family:Times New Roman; font-size:0.75em;">
-My research sits at the intersection of statistics, neuroscience, and artificial intelligence, focusing on the development and application of quantitative methods to analyze complex data and understand intelligent systems.
+<div style="font-family:Times New Roman; font-size:0.75em; margin-bottom:1.5em;">
+My research sits at the intersection of statistics, neuroscience, and artificial intelligence, focusing on developing quantitative methods to analyze complex data and understand intelligent systems.
 </div>
 
-<h3 style="font-family:Times New Roman; font-size:1em; margin-top:1.5em;">1. Feature Selection and High-Dimensional Data</h3>
+<h3 style="font-family:Times New Roman; font-size:1em; margin-top:1.5em;">Core Research Areas</h3>
+
 <div style="font-family:Times New Roman; font-size:0.75em;">
-My doctoral work focused on developing novel feature screening techniques for functional data. I introduced Functional Sure Independence Screening (fSIS) to efficiently identify relevant signals in high-dimensional datasets like fMRI and EEG. This allows for faster, more accurate analysis in complex biological systems.
+
+<strong>High-Dimensional Statistics & Feature Selection</strong>
+<div style="margin-top:0.5em; margin-bottom:1em;">
+Developing novel feature screening techniques for functional data, including Functional Sure Independence Screening (fSIS) for efficient signal identification in high-dimensional datasets like fMRI and EEG.
 </div>
 
-<h3 style="font-family:Times New Roman; font-size:1em; margin-top:1.5em;">2. Dynamic Spectral Analysis</h3>
-<div style="font-family:Times New Roman; font-size:0.75em;">
-I have also worked on extracting dynamic spectral features from neuroimaging data (EEG, calcium imaging). This work involves time-frequency analysis to understand how neural activity changes over time in response to stimuli or in different states. I apply these methods to understand neural coding in animal models (zebrafish) and human data.
+<strong>Computational Neuroscience</strong>
+<div style="margin-top:0.5em; margin-bottom:1em;">
+Extracting dynamic spectral features from neuroimaging data through time-frequency analysis to understand neural activity patterns and state transitions, with applications to epileptic seizure dynamics and brain state characterization.
 </div>
 
-<h3 style="font-family:Times New Roman; font-size:1em; margin-top:1.5em;">3. AI Alignment and LLM Ethics</h3>
-<div style="font-family:Times New Roman; font-size:0.75em;">
-My recent work explores theoretical foundations of AI alignment and the statistical mechanisms underlying large language model behavior. I investigate how LLMs encode cultural stereotypes through personality structure rotation and propose novel philosophical frameworks for AI alignment that move beyond Western social contract theory. This research combines mathematical rigor with cross-cultural philosophical insights to address critical challenges in AI safety and fairness.
+<strong>AI Alignment & LLM Ethics</strong>
+<div style="margin-top:0.5em; margin-bottom:1em;">
+Investigating statistical mechanisms underlying large language model behavior, particularly how LLMs encode cultural stereotypes through geometric transformations of personality structures, and proposing novel frameworks for AI alignment.
 </div>
 
-<div style="font-family:Times New Roman; font-size:0.75em; margin-top:2em;">
-I welcome collaborations from all related fields across statistics, neuroscience, and AI research. You can reach me at the following:
+</div>
 
-<h3 style="font-family:Times New Roman; font-size:1em; margin-top:1em;">Contact Information:</h3>
+<h3 style="font-family:Times New Roman; font-size:1em; margin-top:2em;">Resources</h3>
+
+<div style="font-family:Times New Roman; font-size:0.75em;">
 <ul style="list-style-type: none; padding-left: 0; margin-top:0.5em;">
-    <li><strong>Email:</strong> <a href="mailto:yzy0014@auburn.edu">yzy0014@auburn.edu</a></li>
-    <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/yuan-yuan-13b80652/">Yuan Yuan</a></li>
-    <li><strong>ResearchGate:</strong> <a href="https://www.researchgate.net/profile/Yuan_Yuan20?ev=hdr_xprf">Yuan Yuan</a></li>
-</ul>
-
-<h3 style="font-family:Times New Roman; font-size:1em; margin-top:1.5em;">Additional Resources:</h3>
-<ul style="list-style-type: none; padding-left: 0; margin-top:0.5em;">
-    <li><strong><a href="/Publications/">Publications</a>:</strong> A complete list of my research papers and academic contributions</li>
-    <li><strong><a href="/Projects/">Projects</a>:</strong> Detailed descriptions of my ongoing and completed research projects</li>
+    <li><strong><a href="/assets/images/yy/T32-slides.pdf" download>T32 Research Presentation Slides</a></strong> - Overview of current research directions and findings</li>
 </ul>
 </div>
-
