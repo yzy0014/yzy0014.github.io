@@ -28,10 +28,6 @@ spacing: single
     <strong>Yuan, Y.</strong> (2026). <em>How LLMs Encode Stereotypes: Rotating Personality Structures, Not Just Shifting Scores</em>. Manuscript in preparation for Neurips 2026.
 </div>
 
-<div style="margin-top:1em;">
-    <strong>Yuan, Y.</strong>, Billor, N., & Zheng, J. (2026 Est.). <em>Predicting calcium fluorescence imaging video with CNN: a novel preprocessing approach for epileptic seizure in zebrafish larva</em>. Manuscript in preparation for ICML 2026.
-</div>
-
 </div>
 
 <hr style="margin: 2em 0;">
