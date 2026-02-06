@@ -10,8 +10,6 @@ fontsize: 8pt
 spacing: single
 ---
 
-<h2 style="font-family:Times New Roman; font-size:1.2em;">Journal Publications</h2>
-
 <div style="font-family:Times New Roman; font-size:0.75em;">
 <h3 style="font-family:Times New Roman; font-size:0.9em; color:#4a4a4a;">Peer-Reviewed Articles</h3>
 
@@ -27,7 +25,6 @@ spacing: single
 
 <hr style="margin: 2em 0;">
 
-<h2 style="font-family:Times New Roman; font-size:1.2em;">Conference Papers & Presentations</h2>
 
 <div style="font-family:Times New Roman; font-size:0.75em;">
 <h3 style="font-family:Times New Roman; font-size:0.9em; color:#4a4a4a;">Conference Presentations</h3>
@@ -43,8 +40,6 @@ spacing: single
 </div>
 
 <hr style="margin: 2em 0;">
-
-<h2 style="font-family:Times New Roman; font-size:1.2em;">Invited Talks</h2>
 
 <div style="font-family:Times New Roman; font-size:0.75em;">
 <h3 style="font-family:Times New Roman; font-size:0.9em; color:#4a4a4a;">Academic & Industry Presentations</h3>

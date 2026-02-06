@@ -9,9 +9,6 @@ fontfamily: mathpazo
 fontsize: 8pt
 spacing: single
 ---
-
-<h2 style="font-family:Times New Roman; font-size:1.2em;">Research Projects</h2>
-
 <h3 style="font-family:Times New Roman; font-size:1em;">Epileptic Brain Dynamics via Neural Network Latent Space Analysis</h3>
 
 <div style="font-family:Times New Roman; font-size:0.75em;">

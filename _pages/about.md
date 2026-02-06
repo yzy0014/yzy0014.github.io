@@ -10,8 +10,6 @@ fontsize: 8pt
 spacing: single
 ---
 
-<h2 style="font-family:Times New Roman; font-size:1.2em;">Yuan Yuan</h2>
-
 <span style="font-family:Times New Roman; font-size:0.75em;"> I am a computational scientist and statistician passionate about uncovering patterns and principles in complex data. My work bridges statistics, neuroscience, and AI to understand how the brain works and how machines learn.</span>
 
 <span style="font-family:Times New Roman; font-size:0.75em;"> I specialize in high-dimensional statistics, time-series analysis, and manifold-based methods—applying these tools from brain imaging to biomedical research and behaviorial research.</span>
