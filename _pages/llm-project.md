@@ -49,12 +49,3 @@ This study examines how large language models encode cultural stereotypes in per
   <figcaption style="font-family:Times New Roman; font-size:0.7em; font-style:italic; margin-top:0.5em;"><strong>Eigenvalues:</strong> Analysis of UMAP visualizations of item-dimension covariance structure orientation across groups</figcaption>
 </figure>
 
-<h3 style="font-family:Times New Roman; font-size:1em; margin-top:2em;">Interpretation</h3>
-
-<div style="font-family:Times New Roman; font-size:0.75em;">
-
-<strong>Encoding Mechanism:</strong>
-<div style="margin-top:0.5em; margin-bottom:1em;">
-The current project indicates that LLMs encode cultural stereotypes primarily through rotation of personality covariance structures on a high-dimensional manifold, rather than through simple mean shifts in trait scores.
-</div>
-

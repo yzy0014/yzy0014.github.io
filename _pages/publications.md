@@ -22,11 +22,6 @@ spacing: single
     <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/ahg.12339">[Link]</a></li>
 </ul>
 
-<h3 style="font-family:Times New Roman; font-size:0.9em; color:#4a4a4a; margin-top:1.5em;">Under Review/Preparation</h3>
-
-<div style="margin-top:1em;">
-    <strong>Yuan, Y.</strong> (2026). <em>How LLMs Encode Stereotypes: Rotating Personality Structures, Not Just Shifting Scores</em>. Manuscript in preparation for Neurips 2026.
-</div>
 
 </div>
 
