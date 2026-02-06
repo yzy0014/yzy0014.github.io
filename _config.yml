@@ -121,7 +121,10 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/yzy0014"
-    - label: "Department of Math & Stats, Auburn University"
+    - label: "Auburn University"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.auburn.edu/"
+    - label: "Department of Math & Stats"
       icon: "fas fa-fw fa-link"
       url: "https://www.auburn.edu/cosam/departments/math/"
 
