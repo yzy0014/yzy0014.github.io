@@ -8,8 +8,6 @@ main:
     url: /Publications/
   - title: "Biomedical Research"
     url: /Project/
-  - title: "LLM Research"
-    url: /LLM-Project/
   - title: "Blog"
     url: /Blogs/
 
