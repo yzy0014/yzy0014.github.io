@@ -12,7 +12,7 @@ spacing: single
 
 <h2 style="font-family:Times New Roman; font-size:1.2em;">Research Projects</h2>
 
-<h3 style="font-family:Times New Roman; font-size:1em;">Project 1: Epileptic Brain Dynamics via Neural Network Latent Space Analysis</h3>
+<h3 style="font-family:Times New Roman; font-size:1em;">Epileptic Brain Dynamics via Neural Network Latent Space Analysis</h3>
 
 <div style="font-family:Times New Roman; font-size:0.75em;">
 Building on zebrafish calcium imaging data, this project employs our novel spatiotemporal feature extraction and preprocessing pipeline combined with advanced machine learning and dynamical systems analysis to investigate epileptic seizure dynamics. This unique preprocessing approach significantly improved classification accuracy compared to raw data analysis. Using neural network latent space trajectories, we uncovered a novel "spatial stability vs. directional chaos" paradigm that fundamentally characterizes ictal (seizure) and interictal (normal) brain states.
@@ -52,6 +52,7 @@ Building on zebrafish calcium imaging data, this project employs our novel spati
 
 <hr style="margin: 2em 0;">
 
+<!--
 <h3 style="font-family:Times New Roman; font-size:1em;">Project 2: Spatiotemporal Analysis of Zebrafish Neural Activity</h3>
 
 <div style="font-family:Times New Roman; font-size:0.75em;">
@@ -93,7 +94,7 @@ This project focuses on developing novel feature screening techniques for high-d
   <li><strong>Publication:</strong> <a href="https://www.tandfonline.com/doi/abs/10.1080/03610918.2024.2325567">Communications in Statistics - Simulation and Computation (2024)</a></li>
 </ul>
 </div>>
-
+-->
 
 
 
