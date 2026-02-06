@@ -9,9 +9,6 @@ fontfamily: mathpazo
 fontsize: 8pt
 spacing: single
 ---
-
-<h2 style="font-family:Times New Roman; font-size:1.2em;">Research Overview</h2>
-
 <div style="font-family:Times New Roman; font-size:0.75em; margin-bottom:1.5em;">
 My research sits at the intersection of statistics, neuroscience, and artificial intelligence, focusing on developing quantitative methods to analyze complex data and understand intelligent systems.
 </div>
