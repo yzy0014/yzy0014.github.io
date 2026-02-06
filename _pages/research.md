@@ -16,8 +16,6 @@ spacing: single
 My research sits at the intersection of statistics, neuroscience, and artificial intelligence, focusing on developing quantitative methods to analyze complex data and understand intelligent systems.
 </div>
 
-<h3 style="font-family:Times New Roman; font-size:1em; margin-top:1.5em;">Core Research Areas</h3>
-
 <div style="font-family:Times New Roman; font-size:0.75em;">
 
 <strong>High-Dimensional Statistics & Feature Selection</strong>
@@ -35,12 +33,3 @@ Extracting dynamic spectral features from neuroimaging data through time-frequen
 Investigating statistical mechanisms underlying large language model behavior, particularly how LLMs encode cultural stereotypes through geometric transformations of personality structures, and proposing novel frameworks for AI alignment.
 </div>
 
-</div>
-
-<h3 style="font-family:Times New Roman; font-size:1em; margin-top:2em;">Resources</h3>
-
-<div style="font-family:Times New Roman; font-size:0.75em;">
-<ul style="list-style-type: none; padding-left: 0; margin-top:0.5em;">
-    <li><strong><a href="/assets/images/yy/T32-slides.pdf" download>T32 Research Presentation Slides</a></strong> - Overview of current research directions and findings</li>
-</ul>
-</div>
