@@ -4,6 +4,11 @@
 
 <!-- Custom CSS for sidebar and masthead fonts -->
 <style>
+  /* Sidebar - apply Times New Roman to all elements */
+  .sidebar {
+    font-family: "Times New Roman", Times, serif !important;
+  }
+  
   /* Sidebar author name - use Times New Roman and reduce font weight */
   .sidebar .author__name {
     font-family: "Times New Roman", Times, serif !important;
@@ -11,29 +16,34 @@
   }
   
   /* Sidebar bio text */
-  .sidebar .author__bio {
+  .sidebar .author__bio,
+  .sidebar .author__bio p {
     font-family: "Times New Roman", Times, serif !important;
   }
   
   /* Sidebar links */
-  .sidebar .author__urls {
+  .sidebar .author__urls,
+  .sidebar .author__urls a,
+  .sidebar .author__urls li {
+    font-family: "Times New Roman", Times, serif !important;
+  }
+  
+  /* Sidebar location and other metadata */
+  .sidebar p,
+  .sidebar li,
+  .sidebar a {
     font-family: "Times New Roman", Times, serif !important;
   }
   
   /* Masthead (top navigation menu) */
-  .masthead {
-    font-family: "Times New Roman", Times, serif !important;
-  }
-  
-  .masthead__inner-wrap {
-    font-family: "Times New Roman", Times, serif !important;
-  }
-  
-  .masthead__menu {
-    font-family: "Times New Roman", Times, serif !important;
-  }
-  
-  .greedy-nav a {
+  .masthead,
+  .masthead *,
+  .masthead__inner-wrap,
+  .masthead__menu,
+  .greedy-nav,
+  .greedy-nav a,
+  .greedy-nav .visible-links a,
+  .greedy-nav .hidden-links a {
     font-family: "Times New Roman", Times, serif !important;
   }
 </style>
