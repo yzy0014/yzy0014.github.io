@@ -27,6 +27,6 @@ Extracting dynamic spectral features from neuroimaging data through time-frequen
 
 <strong>AI Alignment & LLM Ethics</strong>
 <div style="margin-top:0.5em; margin-bottom:1em;">
-Investigating statistical mechanisms underlying large language model behavior, particularly how LLMs encode cultural stereotypes through geometric transformations of personality structures, and proposing novel frameworks for AI alignment.
+Investigating statistical mechanisms underlying large language model behavior.
 </div>
 
