@@ -14,6 +14,22 @@
     font-family: "Times New Roman", Times, serif !important;
     font-weight: normal !important;
   }
+
+  /* Larger sidebar avatar size */
+  .sidebar .author__avatar img {
+    width: 72px;
+    height: 72px;
+    max-width: 72px !important;
+    object-fit: cover;
+  }
+
+  @media (min-width: 64em) {
+    .sidebar .author__avatar img {
+      width: 150px;
+      height: 150px;
+      max-width: 150px !important;
+    }
+  }
   
   /* Sidebar bio text */
   .sidebar .author__bio,
