@@ -15,19 +15,21 @@
     font-weight: normal !important;
   }
 
-  /* Larger sidebar avatar size */
+  /* Larger avatar with original photo shape (no circular crop) */
   .sidebar .author__avatar img {
-    width: 90px;
-    height: 90px;
-    max-width: 90px !important;
-    object-fit: cover;
+    width: 130px;
+    height: auto;
+    max-width: 130px !important;
+    border-radius: 0 !important;
+    object-fit: contain;
+    padding: 0 !important;
+    border: 0 !important;
   }
 
   @media (min-width: 64em) {
     .sidebar .author__avatar img {
-      width: 180px;
-      height: 180px;
-      max-width: 180px !important;
+      width: 230px;
+      max-width: 230px !important;
     }
   }
   
