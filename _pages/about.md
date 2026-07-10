@@ -10,11 +10,11 @@ fontsize: 8pt
 spacing: single
 ---
 
-<span style="font-family:Times New Roman; font-size:0.75em;"> I am a computational scientist and statistician passionate about uncovering patterns and principles in complex data. My work bridges statistics, neuroscience, and AI to understand how the brain works and how machines learn.</span>
+<span style="font-family:Times New Roman; font-size:0.75em;"> I am a computational scientist and statistician passionate about uncovering the patterns and principles underlying the workings of both humans and machines. My work is interdisciplinary, integrating the fields of statistics, neuroscience, psychology, and artificial intelligence. </span>
 
-<span style="font-family:Times New Roman; font-size:0.75em;"> I specialize in high-dimensional statistics, time-series analysis, and manifold-based methods—applying these tools from brain imaging to biomedical research and behaviorial research.</span>
+<span style="font-family:Times New Roman; font-size:0.75em;"> I conduct original research on human behavior and the behavior of Large Language Models (LLMs). Within the realm of statistics, I specialize in high-dimensional statistics, time-series analysis, and manifold-based methods, applying these tools to diverse areas ranging from brain imaging and biomedical research to the behavioral analysis of LLMs. </span>
 
-<span style="font-family:Times New Roman; font-size:0.75em;"> My interdisciplinary approach draws from diverse academic foundations: I hold a Ph.D. in Statistics (2021) from <a href="https://www.auburn.edu/">Auburn University</a> under <a href="https://www.auburn.edu/cosam/faculty/math_stats/billor/index.htm">Dr. Nedret Billor</a>, a M.S. in Psychology (2015) from <a href="https://cla.auburn.edu/directory/dan-svyantek/">Dr. Daniel Svyantek</a>. I got my B.S. (2010) from <a href="https://english.hust.edu.cn/">HUST</a>. </span>
+<span style="font-family:Times New Roman; font-size:0.75em;"> My interdisciplinary approach draws from diverse academic foundations: I hold a Ph.D. in Statistics (2021) from <a href="https://www.auburn.edu/">Auburn University</a> under <a href="https://www.auburn.edu/cosam/faculty/math_stats/billor/index.htm">Dr. Nedret Billor</a>, a M.S. in Psychology (2015) from <a href="https://cla.auburn.edu/directory/dan-svyantek/">Dr. Daniel Svyantek</a>, and a B.S. in Electrical Engineering (2010) from <a href="https://english.hust.edu.cn/">Huazhong University of Science and Technology</a>. </span>
 
 
 
