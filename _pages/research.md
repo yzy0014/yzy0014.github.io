@@ -17,7 +17,7 @@ My research sits at the intersection of statistics, neuroscience, and artificial
 
 <strong>High-Dimensional Statistics & Feature Selection</strong>
 <div style="margin-top:0.5em; margin-bottom:1em;">
-Developing novel feature screening techniques for functional data, including Functional Sure Independence Screening (fSIS) for efficient signal identification in high-dimensional datasets like fMRI and EEG.
+Developing novel feature screening techniques for functional data, including Functional Sure Independence Screening (fSIS) for efficient signal identification in high-dimensional datasets.
 </div>
 
 <strong>Computational Neuroscience</strong>
